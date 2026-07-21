@@ -1,98 +1,107 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 100000.0,
+  "cash": 10709.171505167611,
   "seed": 7,
   "interval": "60m",
   "inception": "2026-07-20T15:30:00",
-  "last_processed": "2026-07-20T15:30:00",
-  "positions": [],
-  "pending_orders": [
-    {
-      "symbol": "AZN",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09017464085816512,
-      "conviction": 0.9870442355138226,
-      "expected_reward": 0.003745744669466427,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CDNS",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09083309959681433,
-      "conviction": 0.9942516709537893,
-      "expected_reward": 0.025183509798360024,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EXC",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.0888971373821844,
-      "conviction": 0.9730607870651728,
-      "expected_reward": 0.0044962686003080935,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FAST",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.08802032814365962,
-      "conviction": 0.9634633049316715,
-      "expected_reward": 0.009164107664063427,
-      "reason": "entry"
-    },
+  "last_processed": "2026-07-21T09:30:00",
+  "positions": [
     {
       "symbol": "ISRG",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09120273635274705,
-      "conviction": 0.9982976846191088,
-      "expected_reward": 0.027446400243910558,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LIN",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.08822872240254813,
-      "conviction": 0.9657443714265591,
-      "expected_reward": 0.003465881416193623,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MNST",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09085352218271485,
-      "conviction": 0.9944752149068958,
-      "expected_reward": 0.009588844885789956,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NFLX",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09060597873336457,
-      "conviction": 0.9917656245786712,
-      "expected_reward": 0.02159348194420784,
-      "reason": "entry"
+      "quantity": 26.0,
+      "avg_price": 347.467237228568,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
     },
     {
       "symbol": "SNPS",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09110626694571158,
-      "conviction": 0.9972417383884211,
-      "expected_reward": 0.026134460643736188,
-      "reason": "entry"
+      "quantity": 24.0,
+      "avg_price": 378.0659710304572,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "MNST",
+      "quantity": 94.0,
+      "avg_price": 95.70543089568766,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "CDNS",
+      "quantity": 27.0,
+      "avg_price": 330.8667692323868,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "NFLX",
+      "quantity": 134.0,
+      "avg_price": 67.49067471301706,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "AZN",
+      "quantity": 54.0,
+      "avg_price": 165.3758240490167,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
     },
     {
       "symbol": "TSLA",
-      "decided_ts": "2026-07-20T15:30:00",
-      "target_weight": 0.09007756740209044,
-      "conviction": 0.98598167741181,
-      "expected_reward": 0.007465949996960017,
-      "reason": "entry"
+      "quantity": 24.0,
+      "avg_price": 371.0362718492468,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "EXC",
+      "quantity": 194.0,
+      "avg_price": 45.75703806137004,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "LIN",
+      "quantity": 17.0,
+      "avg_price": 511.9787248157873,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    },
+    {
+      "symbol": "FAST",
+      "quantity": 196.0,
+      "avg_price": 44.86716636909331,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T09:30:00"
+    }
+  ],
+  "pending_orders": [
+    {
+      "symbol": "TSLA",
+      "decided_ts": "2026-07-21T09:30:00",
+      "target_weight": 0.018164908924287633,
+      "conviction": 0.18274618567005546,
+      "expected_reward": 0.0020417973937388277,
+      "reason": "rebalance"
     }
   ],
   "realized_pnl": 0.0,
   "cumulative_costs": 0.0,
-  "cumulative_slippage": 0.0,
-  "n_fills": 0,
+  "cumulative_slippage": 14.33717708337204,
+  "n_fills": 10,
   "benchmark_units": {
     "SPY": 134.63843204079123,
     "QQQ": 143.33218818053592
@@ -204,5 +213,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-21T00:30:17.572390+00:00"
+  "updated_utc": "2026-07-21T14:35:53.314565+00:00"
 }
