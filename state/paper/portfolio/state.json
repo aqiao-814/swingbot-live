@@ -1,11 +1,11 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 10709.171505167611,
+  "cash": 10768.323259801597,
   "seed": 7,
   "interval": "60m",
   "inception": "2026-07-20T15:30:00",
-  "last_processed": "2026-07-21T09:30:00",
+  "last_processed": "2026-07-21T11:30:00",
   "positions": [
     {
       "symbol": "ISRG",
@@ -56,14 +56,6 @@
       "entry_ts": "2026-07-21T09:30:00"
     },
     {
-      "symbol": "TSLA",
-      "quantity": 24.0,
-      "avg_price": 371.0362718492468,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-21T09:30:00"
-    },
-    {
       "symbol": "EXC",
       "quantity": 194.0,
       "avg_price": 45.75703806137004,
@@ -86,22 +78,21 @@
       "realized_pnl": 0.0,
       "total_costs": 0.0,
       "entry_ts": "2026-07-21T09:30:00"
-    }
-  ],
-  "pending_orders": [
+    },
     {
-      "symbol": "TSLA",
-      "decided_ts": "2026-07-21T09:30:00",
-      "target_weight": 0.018164908924287633,
-      "conviction": 0.18274618567005546,
-      "expected_reward": 0.0020417973937388277,
-      "reason": "rebalance"
+      "symbol": "WBD",
+      "quantity": 355.0,
+      "avg_price": 25.684036297988484,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-21T11:30:00"
     }
   ],
-  "realized_pnl": 0.0,
-  "cumulative_costs": 0.0,
-  "cumulative_slippage": 14.33717708337204,
-  "n_fills": 10,
+  "pending_orders": [],
+  "realized_pnl": 272.37322741427556,
+  "cumulative_costs": 0.2591113762999343,
+  "cumulative_slippage": 17.165973243495017,
+  "n_fills": 13,
   "benchmark_units": {
     "SPY": 134.63843204079123,
     "QQQ": 143.33218818053592
@@ -213,5 +204,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-21T14:35:53.314565+00:00"
+  "updated_utc": "2026-07-21T17:00:48.759436+00:00"
 }
