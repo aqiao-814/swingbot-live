@@ -1,8 +1,8 @@
 {
   "latest": "rrl_latest.bin",
-  "updated": "2026-07-17",
-  "n_updates": 152652,
+  "updated": "2026-07-21",
+  "n_updates": 183352,
   "checkpoints": [
-    "rrl_2026-07-17.bin"
+    "rrl_2026-07-21.bin"
   ]
 }
