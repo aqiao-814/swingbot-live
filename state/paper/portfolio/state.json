@@ -1,98 +1,98 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 100000.0,
+  "cash": 11237.952091101428,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-21T15:30:00",
-  "positions": [],
-  "pending_orders": [
+  "last_processed": "2026-07-22T10:00:00",
+  "positions": [
     {
       "symbol": "AMZN",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.09163407128984889,
-      "conviction": 0.9822727280528867,
-      "expected_reward": 0.0030649416545076337,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DDOG",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.0893433021172616,
-      "conviction": 0.9577167953869762,
-      "expected_reward": 0.004674843175420958,
-      "reason": "entry"
-    },
-    {
-      "symbol": "GOOG",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.08923759726206118,
-      "conviction": 0.9565836906910414,
-      "expected_reward": 0.0026394459354700858,
-      "reason": "entry"
-    },
-    {
-      "symbol": "GOOGL",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.08970360039656958,
-      "conviction": 0.961579017906907,
-      "expected_reward": 0.0026940132438930753,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MDB",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.0900151584388753,
-      "conviction": 0.964918768764363,
-      "expected_reward": 0.007630503260467318,
-      "reason": "entry"
-    },
-    {
-      "symbol": "META",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.09041239341251507,
-      "conviction": 0.9691769347035467,
-      "expected_reward": 0.003227140893857066,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MNST",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.08988032650103556,
-      "conviction": 0.9634734358925803,
-      "expected_reward": 0.0033946976528014595,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PDD",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.08894893716917758,
-      "conviction": 0.9534893947274811,
-      "expected_reward": 0.0021317971114258416,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TEAM",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.08956880135059227,
-      "conviction": 0.9601340376199106,
-      "expected_reward": 0.009334853840954728,
-      "reason": "entry"
+      "quantity": 36.0,
+      "avg_price": 248.1674718782515,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
     },
     {
       "symbol": "WBD",
-      "decided_ts": "2026-07-21T15:30:00",
-      "target_weight": 0.09125581206206303,
-      "conviction": 0.9782179728907687,
-      "expected_reward": 0.0065668381054915575,
-      "reason": "entry"
+      "quantity": 353.0,
+      "avg_price": 25.834220416332187,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "META",
+      "quantity": 14.0,
+      "avg_price": 642.5671880455445,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "MDB",
+      "quantity": 29.0,
+      "avg_price": 307.4204512666905,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "MNST",
+      "quantity": 94.0,
+      "avg_price": 94.64495331165178,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "GOOGL",
+      "quantity": 25.0,
+      "avg_price": 347.7974420783946,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "TEAM",
+      "quantity": 98.0,
+      "avg_price": 90.55544431092174,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "DDOG",
+      "quantity": 35.0,
+      "avg_price": 251.80956779569013,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "GOOG",
+      "quantity": 25.0,
+      "avg_price": 347.32246447484994,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "PDD",
+      "quantity": 105.0,
+      "avg_price": 84.14298766189276,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-22T09:30:00"
     }
   ],
+  "pending_orders": [],
   "realized_pnl": 0.0,
   "cumulative_costs": 0.0,
-  "cumulative_slippage": 0.0,
-  "n_fills": 0,
+  "cumulative_slippage": 13.954015847422653,
+  "n_fills": 10,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -204,5 +204,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-22T04:08:57.238638+00:00"
+  "updated_utc": "2026-07-22T14:58:17.137940+00:00"
 }
