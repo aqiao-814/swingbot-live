@@ -1,11 +1,11 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 11237.952091101428,
+  "cash": 11060.207583141371,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-23T10:30:00",
+  "last_processed": "2026-07-23T12:00:00",
   "positions": [
     {
       "symbol": "AMZN",
@@ -19,14 +19,6 @@
       "symbol": "WBD",
       "quantity": 353.0,
       "avg_price": 25.834220416332187,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-22T09:30:00"
-    },
-    {
-      "symbol": "META",
-      "quantity": 14.0,
-      "avg_price": 642.5671880455445,
       "realized_pnl": 0.0,
       "total_costs": 0.0,
       "entry_ts": "2026-07-22T09:30:00"
@@ -86,13 +78,21 @@
       "realized_pnl": 0.0,
       "total_costs": 0.0,
       "entry_ts": "2026-07-22T09:30:00"
+    },
+    {
+      "symbol": "TMUS",
+      "quantity": 48.0,
+      "avg_price": 178.40890005241127,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-23T11:30:00"
     }
   ],
   "pending_orders": [],
-  "realized_pnl": 0.0,
-  "cumulative_costs": 0.0,
-  "cumulative_slippage": 13.954015847422653,
-  "n_fills": 10,
+  "realized_pnl": -609.8224799972934,
+  "cumulative_costs": 0.23545808464340123,
+  "cumulative_slippage": 16.622489550959955,
+  "n_fills": 12,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -199,10 +199,12 @@
     "XEL": 78.71499633789062,
     "ZS": 148.61000061035156
   },
-  "last_stop_out": {},
+  "last_stop_out": {
+    "META": "2026-07-23T11:30:00"
+  },
   "halted": null,
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-23T15:00:28.894305+00:00"
+  "updated_utc": "2026-07-23T16:55:08.433104+00:00"
 }
