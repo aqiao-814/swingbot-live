@@ -5,7 +5,7 @@
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-23T12:00:00",
+  "last_processed": "2026-07-23T13:30:00",
   "positions": [
     {
       "symbol": "AMZN",
@@ -88,7 +88,24 @@
       "entry_ts": "2026-07-23T11:30:00"
     }
   ],
-  "pending_orders": [],
+  "pending_orders": [
+    {
+      "symbol": "TEAM",
+      "decided_ts": "2026-07-23T13:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.9980357552119171,
+      "expected_reward": 0.009052228953184815,
+      "reason": "stop_loss"
+    },
+    {
+      "symbol": "TSLA",
+      "decided_ts": "2026-07-23T13:30:00",
+      "target_weight": 0.0823807297936053,
+      "conviction": 0.9997785856217127,
+      "expected_reward": 0.029665821416041883,
+      "reason": "entry"
+    }
+  ],
   "realized_pnl": -609.8224799972934,
   "cumulative_costs": 0.23545808464340123,
   "cumulative_slippage": 16.622489550959955,
@@ -206,5 +223,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-23T16:55:08.433104+00:00"
+  "updated_utc": "2026-07-23T18:09:04.074326+00:00"
 }
