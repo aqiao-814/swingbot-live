@@ -1,98 +1,17 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 9568.707683269437,
+  "cash": 95660.62245759516,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-24T14:30:00",
-  "positions": [
-    {
-      "symbol": "MSTR",
-      "quantity": 94.0,
-      "avg_price": 90.9047146040035,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "CHTR",
-      "quantity": 69.0,
-      "avg_price": 123.6859145587246,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "TSLA",
-      "quantity": 27.0,
-      "avg_price": 315.59969564845,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "GEHC",
-      "quantity": 141.0,
-      "avg_price": 60.98953992832908,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "DXCM",
-      "quantity": 122.0,
-      "avg_price": 69.91138593889889,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "GILD",
-      "quantity": 66.0,
-      "avg_price": 129.86040654168514,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "AMZN",
-      "quantity": 36.0,
-      "avg_price": 232.7107108887869,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "CMCSA",
-      "quantity": 385.0,
-      "avg_price": 22.253643701681675,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "PLTR",
-      "quantity": 70.0,
-      "avg_price": 122.35888451212433,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T10:00:00"
-    },
-    {
-      "symbol": "TMUS",
-      "quantity": 50.0,
-      "avg_price": 180.3797916665936,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-24T14:30:00"
-    }
-  ],
+  "last_processed": "2026-07-24T15:30:00",
+  "positions": [],
   "pending_orders": [],
-  "realized_pnl": -4598.67565530451,
-  "cumulative_costs": 3.2026390761476575,
-  "cumulative_slippage": 48.94493468873038,
-  "n_fills": 36,
+  "realized_pnl": -4333.605516669045,
+  "cumulative_costs": 5.7720257358230525,
+  "cumulative_slippage": 62.26095604587909,
+  "n_fills": 46,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -207,5 +126,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-24T19:22:48.660955+00:00"
+  "updated_utc": "2026-07-24T20:45:27.166085+00:00"
 }
