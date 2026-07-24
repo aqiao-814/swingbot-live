@@ -5,7 +5,7 @@
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-24T10:00:00",
+  "last_processed": "2026-07-24T13:00:00",
   "positions": [
     {
       "symbol": "MSTR",
@@ -207,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-24T14:34:12.805301+00:00"
+  "updated_utc": "2026-07-24T17:58:14.889780+00:00"
 }
