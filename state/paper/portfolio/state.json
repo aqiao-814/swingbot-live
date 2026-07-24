@@ -1,17 +1,98 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 95499.63712600138,
+  "cash": 10145.160763532218,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-23T15:30:00",
-  "positions": [],
+  "last_processed": "2026-07-24T10:00:00",
+  "positions": [
+    {
+      "symbol": "MSTR",
+      "quantity": 94.0,
+      "avg_price": 90.9047146040035,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "CHTR",
+      "quantity": 69.0,
+      "avg_price": 123.6859145587246,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "TSLA",
+      "quantity": 27.0,
+      "avg_price": 315.59969564845,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "GEHC",
+      "quantity": 141.0,
+      "avg_price": 60.98953992832908,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "DXCM",
+      "quantity": 122.0,
+      "avg_price": 69.91138593889889,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "GILD",
+      "quantity": 66.0,
+      "avg_price": 129.86040654168514,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "GFS",
+      "quantity": 156.0,
+      "avg_price": 54.76956361185208,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "AMZN",
+      "quantity": 36.0,
+      "avg_price": 232.7107108887869,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "CMCSA",
+      "quantity": 385.0,
+      "avg_price": 22.253643701681675,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    },
+    {
+      "symbol": "PLTR",
+      "quantity": 70.0,
+      "avg_price": 122.35888451212433,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-24T10:00:00"
+    }
+  ],
   "pending_orders": [],
   "realized_pnl": -4497.420840682108,
   "cumulative_costs": 2.9420333165222803,
-  "cumulative_slippage": 32.22038406284558,
-  "n_fills": 24,
+  "cumulative_slippage": 45.97259873537707,
+  "n_fills": 34,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -126,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-23T20:52:50.505496+00:00"
+  "updated_utc": "2026-07-24T14:34:12.805301+00:00"
 }
