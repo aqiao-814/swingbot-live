@@ -5,7 +5,7 @@
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-27T11:00:00",
+  "last_processed": "2026-07-27T13:00:00",
   "positions": [
     {
       "symbol": "BKR",
@@ -207,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-27T15:30:38.209386+00:00"
+  "updated_utc": "2026-07-27T17:37:14.783277+00:00"
 }
