@@ -5,7 +5,7 @@
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-27T13:00:00",
+  "last_processed": "2026-07-27T14:30:00",
   "positions": [
     {
       "symbol": "BKR",
@@ -88,7 +88,24 @@
       "entry_ts": "2026-07-27T10:00:00"
     }
   ],
-  "pending_orders": [],
+  "pending_orders": [
+    {
+      "symbol": "BKR",
+      "decided_ts": "2026-07-27T14:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "AMZN",
+      "decided_ts": "2026-07-27T14:30:00",
+      "target_weight": 0.09363267447011904,
+      "conviction": 0.9796119634596662,
+      "expected_reward": 0.003165514333912563,
+      "reason": "entry"
+    }
+  ],
   "realized_pnl": -4333.605516669045,
   "cumulative_costs": 5.7720257358230525,
   "cumulative_slippage": 76.2114378267734,
@@ -207,5 +224,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-27T17:37:14.783277+00:00"
+  "updated_utc": "2026-07-27T19:15:05.705004+00:00"
 }
