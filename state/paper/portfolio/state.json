@@ -1,17 +1,98 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 95660.62245759516,
+  "cash": 10324.581113540102,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-24T15:30:00",
-  "positions": [],
+  "last_processed": "2026-07-27T11:00:00",
+  "positions": [
+    {
+      "symbol": "BKR",
+      "quantity": 138.0,
+      "avg_price": 62.300753633697084,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "WDAY",
+      "quantity": 59.0,
+      "avg_price": 144.29434695540934,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "PLTR",
+      "quantity": 67.0,
+      "avg_price": 127.81981345885451,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "TEAM",
+      "quantity": 92.0,
+      "avg_price": 92.72127947311893,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "DDOG",
+      "quantity": 33.0,
+      "avg_price": 255.2512118883588,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "TTWO",
+      "quantity": 36.0,
+      "avg_price": 237.22743620927992,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "MSFT",
+      "quantity": 22.0,
+      "avg_price": 391.18945158263074,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "MSTR",
+      "quantity": 88.0,
+      "avg_price": 97.00551758842498,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "ADBE",
+      "quantity": 36.0,
+      "avg_price": 233.95748724722898,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    },
+    {
+      "symbol": "TTD",
+      "quantity": 482.0,
+      "avg_price": 17.847064190074875,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-27T10:00:00"
+    }
+  ],
   "pending_orders": [],
   "realized_pnl": -4333.605516669045,
   "cumulative_costs": 5.7720257358230525,
-  "cumulative_slippage": 62.26095604587909,
-  "n_fills": 46,
+  "cumulative_slippage": 76.2114378267734,
+  "n_fills": 56,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -126,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-24T20:45:27.166085+00:00"
+  "updated_utc": "2026-07-27T15:30:38.209386+00:00"
 }
