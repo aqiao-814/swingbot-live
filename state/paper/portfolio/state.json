@@ -1,11 +1,11 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 11283.066663840826,
+  "cash": 8390.887641088224,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-28T10:30:00",
+  "last_processed": "2026-07-28T12:00:00",
   "positions": [
     {
       "symbol": "KDP",
@@ -64,14 +64,6 @@
       "entry_ts": "2026-07-28T10:00:00"
     },
     {
-      "symbol": "CHTR",
-      "quantity": 63.0,
-      "avg_price": 136.4277237396122,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
       "symbol": "PEP",
       "quantity": 59.0,
       "avg_price": 144.8525647527186,
@@ -86,13 +78,21 @@
       "realized_pnl": 0.0,
       "total_costs": 0.0,
       "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "FANG",
+      "quantity": 61.0,
+      "avg_price": 191.44707763257674,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T12:00:00"
     }
   ],
   "pending_orders": [],
-  "realized_pnl": -3382.3846655005977,
-  "cumulative_costs": 8.60443152551569,
-  "cumulative_slippage": 106.64709234730793,
-  "n_fills": 78,
+  "realized_pnl": -3190.983829802995,
+  "cumulative_costs": 8.85914998410564,
+  "cumulative_slippage": 110.1271522565522,
+  "n_fills": 80,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -207,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-28T15:13:55.932711+00:00"
+  "updated_utc": "2026-07-28T16:57:16.519812+00:00"
 }
