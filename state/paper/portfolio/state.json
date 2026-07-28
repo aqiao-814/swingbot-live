@@ -1,17 +1,98 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 96609.01090297393,
+  "cash": 11283.066663840826,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-27T15:30:00",
-  "positions": [],
+  "last_processed": "2026-07-28T10:30:00",
+  "positions": [
+    {
+      "symbol": "KDP",
+      "quantity": 276.0,
+      "avg_price": 31.495299451489306,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "KHC",
+      "quantity": 317.0,
+      "avg_price": 27.439431187168243,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "MNST",
+      "quantity": 88.0,
+      "avg_price": 98.25555880752869,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "COST",
+      "quantity": 8.0,
+      "avg_price": 986.7523168043961,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "ROST",
+      "quantity": 34.0,
+      "avg_price": 249.56930574529773,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "MDLZ",
+      "quantity": 138.0,
+      "avg_price": 63.01016362947389,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "IDXX",
+      "quantity": 15.0,
+      "avg_price": 574.1582252234946,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "CHTR",
+      "quantity": 63.0,
+      "avg_price": 136.4277237396122,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "PEP",
+      "quantity": 59.0,
+      "avg_price": 144.8525647527186,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    },
+    {
+      "symbol": "CTAS",
+      "quantity": 39.0,
+      "avg_price": 216.9244595929772,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-07-28T10:00:00"
+    }
+  ],
   "pending_orders": [],
   "realized_pnl": -3382.3846655005977,
   "cumulative_costs": 8.60443152551569,
-  "cumulative_slippage": 92.87216664500707,
-  "n_fills": 68,
+  "cumulative_slippage": 106.64709234730793,
+  "n_fills": 78,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -126,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-27T20:49:24.572527+00:00"
+  "updated_utc": "2026-07-28T15:13:55.932711+00:00"
 }
