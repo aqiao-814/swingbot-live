@@ -1,11 +1,11 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 8390.887641088224,
+  "cash": 13950.860081768426,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-28T12:00:00",
+  "last_processed": "2026-07-28T13:30:00",
   "positions": [
     {
       "symbol": "KDP",
@@ -81,18 +81,18 @@
     },
     {
       "symbol": "FANG",
-      "quantity": 61.0,
+      "quantity": 32.0,
       "avg_price": 191.44707763257674,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
+      "realized_pnl": 8.16657500024823,
+      "total_costs": 0.15938566477239033,
       "entry_ts": "2026-07-28T12:00:00"
     }
   ],
   "pending_orders": [],
-  "realized_pnl": -3190.983829802995,
-  "cumulative_costs": 8.85914998410564,
-  "cumulative_slippage": 110.1271522565522,
-  "n_fills": 80,
+  "realized_pnl": -3182.817254802747,
+  "cumulative_costs": 9.01853564887803,
+  "cumulative_slippage": 111.0351666098208,
+  "n_fills": 81,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -207,5 +207,5 @@
   "halted_ts": null,
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-28T16:57:16.519812+00:00"
+  "updated_utc": "2026-07-28T18:09:38.232831+00:00"
 }
