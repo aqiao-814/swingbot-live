@@ -1,179 +1,17 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 13950.860081768426,
+  "cash": 95925.47651413572,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-07-28T15:00:00",
-  "positions": [
-    {
-      "symbol": "KDP",
-      "quantity": 276.0,
-      "avg_price": 31.495299451489306,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "KHC",
-      "quantity": 317.0,
-      "avg_price": 27.439431187168243,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "MNST",
-      "quantity": 88.0,
-      "avg_price": 98.25555880752869,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "COST",
-      "quantity": 8.0,
-      "avg_price": 986.7523168043961,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "ROST",
-      "quantity": 34.0,
-      "avg_price": 249.56930574529773,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "MDLZ",
-      "quantity": 138.0,
-      "avg_price": 63.01016362947389,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "IDXX",
-      "quantity": 15.0,
-      "avg_price": 574.1582252234946,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "PEP",
-      "quantity": 59.0,
-      "avg_price": 144.8525647527186,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "CTAS",
-      "quantity": 39.0,
-      "avg_price": 216.9244595929772,
-      "realized_pnl": 0.0,
-      "total_costs": 0.0,
-      "entry_ts": "2026-07-28T10:00:00"
-    },
-    {
-      "symbol": "FANG",
-      "quantity": 32.0,
-      "avg_price": 191.44707763257674,
-      "realized_pnl": 8.16657500024823,
-      "total_costs": 0.15938566477239033,
-      "entry_ts": "2026-07-28T12:00:00"
-    }
-  ],
-  "pending_orders": [
-    {
-      "symbol": "COST",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9249719183141543,
-      "expected_reward": 0.007650711213676085,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "CTAS",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9910055263109308,
-      "expected_reward": 0.007129800010505444,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "FANG",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9985968887015564,
-      "expected_reward": 0.006355582849820731,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "IDXX",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.8632076987449934,
-      "expected_reward": 0.006637066805215051,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "KDP",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9792563187189822,
-      "expected_reward": 0.010048157361017858,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "KHC",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9113952131074948,
-      "expected_reward": 0.00972463405914956,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "MDLZ",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9660018394167383,
-      "expected_reward": 0.008667524206247262,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "MNST",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.8668182597968657,
-      "expected_reward": 0.0061779539589739635,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "PEP",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.7590579569270729,
-      "expected_reward": 0.006461488612668015,
-      "reason": "eod_flat"
-    },
-    {
-      "symbol": "ROST",
-      "decided_ts": "2026-07-28T15:00:00",
-      "target_weight": 0.0,
-      "conviction": 0.9928956367909141,
-      "expected_reward": 0.005768789660074485,
-      "reason": "eod_flat"
-    }
-  ],
-  "realized_pnl": -3182.817254802747,
-  "cumulative_costs": 9.01853564887803,
-  "cumulative_slippage": 111.0351666098208,
-  "n_fills": 81,
+  "last_processed": "2026-07-28T15:30:00",
+  "positions": [],
+  "pending_orders": [],
+  "realized_pnl": -4063.058991880953,
+  "cumulative_costs": 11.464493983339539,
+  "cumulative_slippage": 123.92853114181624,
+  "n_fills": 91,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -284,9 +122,9 @@
     "META": "2026-07-23T11:30:00",
     "TEAM": "2026-07-23T14:00:00"
   },
-  "halted": null,
-  "halted_ts": null,
+  "halted": "conviction_std 0.0078 < 0.05 (model health: scores are degenerate)",
+  "halted_ts": "2026-07-28T15:30:00",
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-07-28T19:59:00.670097+00:00"
+  "updated_utc": "2026-07-28T21:08:16.183130+00:00"
 }
