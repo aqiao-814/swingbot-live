@@ -5,7 +5,7 @@
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-08-07T14:30:00",
+  "last_processed": "2026-08-07T15:30:00",
   "positions": [],
   "pending_orders": [],
   "realized_pnl": -4063.058991880953,
@@ -126,5 +126,5 @@
   "halted_ts": "2026-07-28T15:30:00",
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-08-07T19:26:56.243430+00:00"
+  "updated_utc": "2026-08-07T20:04:51.286459+00:00"
 }
