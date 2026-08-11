@@ -1,2714 +1,4075 @@
 {
   "universe": "nasdaq100",
   "starting_capital": 100000.0,
-  "cash": 96048.15959551974,
+  "cash": 59136.1145169307,
   "seed": 7,
   "interval": "30m",
   "inception": "2026-07-21T15:30:00",
-  "last_processed": "2026-08-11T09:30:00",
-  "positions": [],
-  "pending_orders": [
+  "last_processed": "2026-08-11T10:30:00",
+  "positions": [
+    {
+      "symbol": "ALB",
+      "quantity": 1.0,
+      "avg_price": 130.33478738449986,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AU",
+      "quantity": 1.0,
+      "avg_price": 97.33480634892304,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BAX",
+      "quantity": 5.0,
+      "avg_price": 27.834224168945553,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BEN",
+      "quantity": 4.0,
+      "avg_price": 33.725113232830985,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BG",
+      "quantity": 1.0,
+      "avg_price": 111.67715376601676,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CDE",
+      "quantity": 7.0,
+      "avg_price": 18.25276723911766,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CHD",
+      "quantity": 1.0,
+      "avg_price": 103.04557941026924,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CHRD",
+      "quantity": 1.0,
+      "avg_price": 137.7912183328642,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CMCSA",
+      "quantity": 5.0,
+      "avg_price": 25.24381344286828,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CNC",
+      "quantity": 2.0,
+      "avg_price": 66.53012782568987,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CSCO",
+      "quantity": 1.0,
+      "avg_price": 121.50330113942881,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CSGP",
+      "quantity": 4.0,
+      "avg_price": 31.164758088836372,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CVNA",
+      "quantity": 2.0,
+      "avg_price": 71.18082278471739,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DOCN",
+      "quantity": 1.0,
+      "avg_price": 128.4796968082689,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DXCM",
+      "quantity": 1.0,
+      "avg_price": 88.17829872810334,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ELF",
+      "quantity": 1.0,
+      "avg_price": 95.13472150261451,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EQX",
+      "quantity": 12.0,
+      "avg_price": 11.606793362646044,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FCX",
+      "quantity": 2.0,
+      "avg_price": 69.63049388352884,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FOX",
+      "quantity": 2.0,
+      "avg_price": 55.88361194122125,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FOXA",
+      "quantity": 2.0,
+      "avg_price": 62.69448050428904,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FROG",
+      "quantity": 1.0,
+      "avg_price": 87.49335417674732,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GEHC",
+      "quantity": 1.0,
+      "avg_price": 72.87098108750747,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GEN",
+      "quantity": 4.0,
+      "avg_price": 29.20441584482033,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HIG",
+      "quantity": 1.0,
+      "avg_price": 140.60131514150112,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HL",
+      "quantity": 8.0,
+      "avg_price": 17.452647849637646,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HST",
+      "quantity": 1.0,
+      "avg_price": 22.453395713800546,
+      "realized_pnl": 0.3659404878778538,
+      "total_costs": 0.00396119514978128,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "INSM",
+      "quantity": 1.0,
+      "avg_price": 132.7351843244127,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "INVH",
+      "quantity": 4.0,
+      "avg_price": 29.9295359698107,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IONS",
+      "quantity": 2.0,
+      "avg_price": 56.85861603813686,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "JOBY",
+      "quantity": 16.0,
+      "avg_price": 8.606326210615403,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KDP",
+      "quantity": 4.0,
+      "avg_price": 29.054402403626003,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KGC",
+      "quantity": 5.0,
+      "avg_price": 27.28414437802885,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KTOS",
+      "quantity": 2.0,
+      "avg_price": 62.279468541710706,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LDOS",
+      "quantity": 1.0,
+      "avg_price": 140.6513021500299,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LYFT",
+      "quantity": 8.0,
+      "avg_price": 17.367638163025603,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "M",
+      "quantity": 5.0,
+      "avg_price": 24.653755841167747,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MCHP",
+      "quantity": 1.0,
+      "avg_price": 82.69250929695342,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MET",
+      "quantity": 1.0,
+      "avg_price": 97.09460915856076,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MHK",
+      "quantity": 1.0,
+      "avg_price": 138.25125845371903,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MP",
+      "quantity": 2.0,
+      "avg_price": 53.264078107813624,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NU",
+      "quantity": 10.0,
+      "avg_price": 13.79217865134095,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OMC",
+      "quantity": 1.0,
+      "avg_price": 84.27279252429591,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OSCR",
+      "quantity": 5.0,
+      "avg_price": 27.114168665409398,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PAAS",
+      "quantity": 2.0,
+      "avg_price": 51.65786549273065,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PFG",
+      "quantity": 1.0,
+      "avg_price": 112.84707916575604,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PL",
+      "quantity": 6.0,
+      "avg_price": 23.03353029637343,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PRU",
+      "quantity": 1.0,
+      "avg_price": 122.23844244584626,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "QBTS",
+      "quantity": 7.0,
+      "avg_price": 20.093056297854336,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RDW",
+      "quantity": 11.0,
+      "avg_price": 12.791959623999752,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "REG",
+      "quantity": 1.0,
+      "avg_price": 75.99153167942404,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RIVN",
+      "quantity": 9.0,
+      "avg_price": 16.08244472006585,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RMBS",
+      "quantity": 1.0,
+      "avg_price": 96.01472840850869,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SOUN",
+      "quantity": 19.0,
+      "avg_price": 7.476163181667531,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TEM",
+      "quantity": 2.0,
+      "avg_price": 53.808277636051436,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TOST",
+      "quantity": 4.0,
+      "avg_price": 35.95546620925477,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "U",
+      "quantity": 3.0,
+      "avg_price": 43.14650592224788,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "USB",
+      "quantity": 2.0,
+      "avg_price": 64.32468198356709,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WPM",
+      "quantity": 1.0,
+      "avg_price": 133.48547760408485,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ZBH",
+      "quantity": 1.0,
+      "avg_price": 97.68973319609773,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ASTS",
+      "quantity": 2.0,
+      "avg_price": 68.26031737823097,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VALE",
+      "quantity": 9.0,
+      "avg_price": 14.822237872414084,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PDD",
+      "quantity": 1.0,
+      "avg_price": 90.86370112743101,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UDR",
+      "quantity": 3.0,
+      "avg_price": 37.60572760127022,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "JD",
+      "quantity": 1.0,
+      "avg_price": 31.869850848368937,
+      "realized_pnl": 0.0008907606256123302,
+      "total_costs": 0.0031559703238993615,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VICI",
+      "quantity": 5.0,
+      "avg_price": 26.07394803360354,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RKLB",
+      "quantity": 1.0,
+      "avg_price": 76.98160412469191,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WYNN",
+      "quantity": 1.0,
+      "avg_price": 103.20064444152533,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SCHW",
+      "quantity": 1.0,
+      "avg_price": 108.24629506169597,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CDW",
+      "quantity": 1.0,
+      "avg_price": 135.36551600107987,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HALO",
+      "quantity": 1.0,
+      "avg_price": 104.16582042256876,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AG",
+      "quantity": 7.0,
+      "avg_price": 18.752847022461992,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CL",
+      "quantity": 1.0,
+      "avg_price": 92.75397757403911,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IRM",
+      "quantity": 1.0,
+      "avg_price": 122.10855315691082,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KMX",
+      "quantity": 1.0,
+      "avg_price": 58.2238545562234,
+      "realized_pnl": 0.20723506695207305,
+      "total_costs": 0.0017903842915242784,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WY",
+      "quantity": 5.0,
+      "avg_price": 25.433881344049897,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AWK",
+      "quantity": 1.0,
+      "avg_price": 134.77038678888078,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PAYX",
+      "quantity": 1.0,
+      "avg_price": 120.38814899481162,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UUUU",
+      "quantity": 10.0,
+      "avg_price": 14.17220265331611,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "L",
+      "quantity": 1.0,
+      "avg_price": 113.17706929010944,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "INCY",
+      "quantity": 1.0,
+      "avg_price": 121.18834113160901,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UPST",
+      "quantity": 4.0,
+      "avg_price": 29.944577664578233,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SOFI",
+      "quantity": 7.0,
+      "avg_price": 18.152735803768852,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IR",
+      "quantity": 1.0,
+      "avg_price": 87.56319684753902,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CROX",
+      "quantity": 1.0,
+      "avg_price": 134.97060566947826,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TW",
+      "quantity": 1.0,
+      "avg_price": 104.31589805833374,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RGTI",
+      "quantity": 8.0,
+      "avg_price": 17.72269752327153,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MKC",
+      "quantity": 2.0,
+      "avg_price": 52.52796788532913,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WOLF",
+      "quantity": 4.0,
+      "avg_price": 29.826073555946383,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DOC",
+      "quantity": 6.0,
+      "avg_price": 20.773160895647905,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TECK",
+      "quantity": 2.0,
+      "avg_price": 67.010173589157,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HOOD",
+      "quantity": 1.0,
+      "avg_price": 93.8941199779772,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HPE",
+      "quantity": 2.0,
+      "avg_price": 53.63814216845389,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VLTO",
+      "quantity": 1.0,
+      "avg_price": 97.43472763959745,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TWST",
+      "quantity": 1.0,
+      "avg_price": 124.17913350628054,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IONQ",
+      "quantity": 3.0,
+      "avg_price": 42.69648769628831,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NWSA",
+      "quantity": 4.0,
+      "avg_price": 28.59432232529358,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NVTS",
+      "quantity": 10.0,
+      "avg_price": 13.200722809496614,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SMR",
+      "quantity": 15.0,
+      "avg_price": 9.291438098591106,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CTSH",
+      "quantity": 2.0,
+      "avg_price": 58.558839523154454,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TAP",
+      "quantity": 3.0,
+      "avg_price": 41.93647409961919,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ETSY",
+      "quantity": 1.0,
+      "avg_price": 79.38202376590084,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BRO",
+      "quantity": 2.0,
+      "avg_price": 70.85075466276821,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MSTR",
+      "quantity": 1.0,
+      "avg_price": 98.00480623324839,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ADM",
+      "quantity": 1.0,
+      "avg_price": 79.95214713971252,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "W",
+      "quantity": 1.0,
+      "avg_price": 104.94588187438752,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SHAK",
+      "quantity": 2.0,
+      "avg_price": 72.32110208283181,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LUNR",
+      "quantity": 9.0,
+      "avg_price": 15.70040667672101,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "STZ",
+      "quantity": 1.0,
+      "avg_price": 132.46006569792686,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EBAY",
+      "quantity": 1.0,
+      "avg_price": 106.71617154714872,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DIS",
+      "quantity": 1.0,
+      "avg_price": 103.81563709755683,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PFE",
+      "quantity": 5.0,
+      "avg_price": 27.044068955155957,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AKAM",
+      "quantity": 1.0,
+      "avg_price": 118.66831773152589,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ROIV",
+      "quantity": 4.0,
+      "avg_price": 35.20533788535551,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CAVA",
+      "quantity": 2.0,
+      "avg_price": 61.579316383660455,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AMKR",
+      "quantity": 2.0,
+      "avg_price": 53.498151057955624,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DLTR",
+      "quantity": 1.0,
+      "avg_price": 129.48967237470995,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RIG",
+      "quantity": 24.0,
+      "avg_price": 5.71087175596145,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RIO",
+      "quantity": 1.0,
+      "avg_price": 102.04536476568039,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RRC",
+      "quantity": 3.0,
+      "avg_price": 40.22623770699454,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CCI",
+      "quantity": 1.0,
+      "avg_price": 74.2112606142953,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TRMB",
+      "quantity": 2.0,
+      "avg_price": 58.88893400275242,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FE",
+      "quantity": 3.0,
+      "avg_price": 46.78040969751772,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NI",
+      "quantity": 3.0,
+      "avg_price": 41.64627774448541,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RF",
+      "quantity": 4.0,
+      "avg_price": 31.534747870924228,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UAL",
+      "quantity": 1.0,
+      "avg_price": 125.3540259659858,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EVRG",
+      "quantity": 1.0,
+      "avg_price": 82.32244336468618,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EQR",
+      "quantity": 2.0,
+      "avg_price": 65.73998680286945,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AR",
+      "quantity": 3.0,
+      "avg_price": 37.17569506863227,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DVN",
+      "quantity": 3.0,
+      "avg_price": 45.2318751378516,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DTE",
+      "quantity": 1.0,
+      "avg_price": 136.62065123828387,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OKLO",
+      "quantity": 3.0,
+      "avg_price": 44.88689041974241,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MDLZ",
+      "quantity": 2.0,
+      "avg_price": 61.30924259224068,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "APA",
+      "quantity": 3.0,
+      "avg_price": 40.586203492531155,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CVS",
+      "quantity": 1.0,
+      "avg_price": 94.90927031600854,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AMCR",
+      "quantity": 2.0,
+      "avg_price": 47.05711650986354,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WFRD",
+      "quantity": 1.0,
+      "avg_price": 93.6344861151491,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FORM",
+      "quantity": 1.0,
+      "avg_price": 117.63320028786994,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OTIS",
+      "quantity": 1.0,
+      "avg_price": 73.08602996700093,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LEN",
+      "quantity": 1.0,
+      "avg_price": 86.4232948409918,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KLIC",
+      "quantity": 1.0,
+      "avg_price": 89.38887316590264,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RVTY",
+      "quantity": 1.0,
+      "avg_price": 116.53759504683705,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EXEL",
+      "quantity": 2.0,
+      "avg_price": 53.00808382756567,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "S",
+      "quantity": 4.0,
+      "avg_price": 22.2433713956282,
+      "realized_pnl": 0.15651541372998423,
+      "total_costs": 0.0015730825780986217,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IFF",
+      "quantity": 1.0,
+      "avg_price": 85.69307452876951,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DUOL",
+      "quantity": 1.0,
+      "avg_price": 134.99103630275283,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OLLI",
+      "quantity": 1.0,
+      "avg_price": 80.16221870988623,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CPT",
+      "quantity": 1.0,
+      "avg_price": 109.14656319286418,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HRL",
+      "quantity": 3.0,
+      "avg_price": 24.37869996754982,
+      "realized_pnl": -0.0647849597305381,
+      "total_costs": 0.0016856546963152613,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PINS",
+      "quantity": 5.0,
+      "avg_price": 24.023655666112912,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BMY",
+      "quantity": 2.0,
+      "avg_price": 64.42470698634921,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DG",
+      "quantity": 1.0,
+      "avg_price": 122.5486884715708,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WEC",
+      "quantity": 1.0,
+      "avg_price": 106.00603703404904,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CPB",
+      "quantity": 6.0,
+      "avg_price": 22.413402100430215,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KIM",
+      "quantity": 5.0,
+      "avg_price": 24.143665534611543,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KHC",
+      "quantity": 5.0,
+      "avg_price": 24.628720031924495,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MAA",
+      "quantity": 1.0,
+      "avg_price": 132.40506811066166,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HSIC",
+      "quantity": 1.0,
+      "avg_price": 89.82366450440836,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GIS",
+      "quantity": 3.0,
+      "avg_price": 37.03058782969336,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UCTT",
+      "quantity": 1.0,
+      "avg_price": 84.88325872254798,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UBER",
+      "quantity": 1.0,
+      "avg_price": 78.42180575525194,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PR",
+      "quantity": 2.0,
+      "avg_price": 21.22322235786048,
+      "realized_pnl": 0.39420769110611786,
+      "total_costs": 0.0030349813000068357,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BABA",
+      "quantity": 1.0,
+      "avg_price": 128.0693408289401,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GPN",
+      "quantity": 1.0,
+      "avg_price": 86.59316436846568,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TXT",
+      "quantity": 1.0,
+      "avg_price": 89.07340665558677,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ENPH",
+      "quantity": 3.0,
+      "avg_price": 41.61635681599234,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "XYZ",
+      "quantity": 1.0,
+      "avg_price": 79.44196787596101,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BKR",
+      "quantity": 2.0,
+      "avg_price": 64.31975516668979,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AGI",
+      "quantity": 4.0,
+      "avg_price": 33.46508996818549,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NEM",
+      "quantity": 1.0,
+      "avg_price": 116.49253815324253,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "UPS",
+      "quantity": 1.0,
+      "avg_price": 105.11582129950193,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BHP",
+      "quantity": 1.0,
+      "avg_price": 91.0837193426058,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MOS",
+      "quantity": 5.0,
+      "avg_price": 23.453581308151428,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AEE",
+      "quantity": 1.0,
+      "avg_price": 107.25626434317641,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GFS",
+      "quantity": 2.0,
+      "avg_price": 50.77776622436904,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FRT",
+      "quantity": 1.0,
+      "avg_price": 117.06772542356174,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CCEP",
+      "quantity": 1.0,
+      "avg_price": 105.97602495805992,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MGM",
+      "quantity": 3.0,
+      "avg_price": 43.391621043043536,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DAL",
+      "quantity": 1.0,
+      "avg_price": 89.97360755182687,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WRB",
+      "quantity": 1.0,
+      "avg_price": 70.54067625066367,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EPAM",
+      "quantity": 1.0,
+      "avg_price": 98.5951934119864,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "QRVO",
+      "quantity": 1.0,
+      "avg_price": 98.42501051444158,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PNW",
+      "quantity": 1.0,
+      "avg_price": 99.65013768057487,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FITB",
+      "quantity": 2.0,
+      "avg_price": 57.33863831382512,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CF",
+      "quantity": 1.0,
+      "avg_price": 119.8782666574855,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WFC",
+      "quantity": 1.0,
+      "avg_price": 88.01321886151817,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MTCH",
+      "quantity": 3.0,
+      "avg_price": 36.8155888692699,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PPG",
+      "quantity": 1.0,
+      "avg_price": 117.12810335670119,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AIG",
+      "quantity": 1.0,
+      "avg_price": 77.37174422765254,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BMNR",
+      "quantity": 7.0,
+      "avg_price": 18.212763071171306,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CELH",
+      "quantity": 4.0,
+      "avg_price": 26.954139820140952,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IVZ",
+      "quantity": 4.0,
+      "avg_price": 32.129906471921174,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BSX",
+      "quantity": 2.0,
+      "avg_price": 50.367612308155834,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BALL",
+      "quantity": 2.0,
+      "avg_price": 63.0895999289273,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TCOM",
+      "quantity": 2.0,
+      "avg_price": 46.17703961377145,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SYY",
+      "quantity": 1.0,
+      "avg_price": 84.42275339049598,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NOW",
+      "quantity": 1.0,
+      "avg_price": 127.47916280076367,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "COP",
+      "quantity": 1.0,
+      "avg_price": 123.28367244181314,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GFI",
+      "quantity": 3.0,
+      "avg_price": 39.82608858373404,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HPQ",
+      "quantity": 4.0,
+      "avg_price": 29.324441665302196,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SYF",
+      "quantity": 1.0,
+      "avg_price": 79.11195937084224,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OWL",
+      "quantity": 11.0,
+      "avg_price": 12.06683708448292,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CCJ",
+      "quantity": 1.0,
+      "avg_price": 98.67495766800916,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BAC",
+      "quantity": 2.0,
+      "avg_price": 64.14963650834946,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BXP",
+      "quantity": 2.0,
+      "avg_price": 67.93042969511765,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WBD",
+      "quantity": 4.0,
+      "avg_price": 27.004063561220928,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SJM",
+      "quantity": 1.0,
+      "avg_price": 118.50800277862625,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CLF",
+      "quantity": 10.0,
+      "avg_price": 12.7169425502791,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VFC",
+      "quantity": 8.0,
+      "avg_price": 14.957282964087874,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BWA",
+      "quantity": 2.0,
+      "avg_price": 70.52820982363752,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SWK",
+      "quantity": 1.0,
+      "avg_price": 104.420909987669,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RUN",
+      "quantity": 13.0,
+      "avg_price": 10.001546884052845,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AEP",
+      "quantity": 1.0,
+      "avg_price": 123.21860947261793,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PNR",
+      "quantity": 1.0,
+      "avg_price": 66.98018825976663,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "XEL",
+      "quantity": 1.0,
+      "avg_price": 77.06661811512747,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TSN",
+      "quantity": 1.0,
+      "avg_price": 56.28353226071088,
+      "realized_pnl": 0.14793274316571825,
+      "total_costs": 0.0017347947271077694,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WMT",
+      "quantity": 1.0,
+      "avg_price": 112.64192490543866,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CLX",
+      "quantity": 1.0,
+      "avg_price": 107.88628991735786,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ZM",
+      "quantity": 1.0,
+      "avg_price": 106.29608660538919,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "O",
+      "quantity": 2.0,
+      "avg_price": 61.84924044786621,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WMB",
+      "quantity": 2.0,
+      "avg_price": 72.43095576320641,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KMB",
+      "quantity": 1.0,
+      "avg_price": 107.86132676553967,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NWS",
+      "quantity": 3.0,
+      "avg_price": 32.754959286661126,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DOCU",
+      "quantity": 2.0,
+      "avg_price": 59.71005930671437,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CAG",
+      "quantity": 8.0,
+      "avg_price": 14.752245196560047,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ED",
+      "quantity": 1.0,
+      "avg_price": 106.5511260446056,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ARE",
+      "quantity": 2.0,
+      "avg_price": 48.357450425251,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SLB",
+      "quantity": 2.0,
+      "avg_price": 53.63811289198847,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ES",
+      "quantity": 1.0,
+      "avg_price": 71.32078670346588,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FCEL",
+      "quantity": 6.0,
+      "avg_price": 19.87304729852722,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AES",
+      "quantity": 8.0,
+      "avg_price": 14.732216312299991,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CARR",
+      "quantity": 2.0,
+      "avg_price": 64.22969442614672,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SWKS",
+      "quantity": 1.0,
+      "avg_price": 70.08060525629249,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CMG",
+      "quantity": 4.0,
+      "avg_price": 32.1798460455807,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LULU",
+      "quantity": 1.0,
+      "avg_price": 124.90147002745807,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PEG",
+      "quantity": 1.0,
+      "avg_price": 74.79132531868208,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "T",
+      "quantity": 5.0,
+      "avg_price": 24.26865261529347,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KVUE",
+      "quantity": 6.0,
+      "avg_price": 18.96286538919215,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IBKR",
+      "quantity": 1.0,
+      "avg_price": 90.77370565055708,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SOLV",
+      "quantity": 1.0,
+      "avg_price": 86.10312092076421,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GTLB",
+      "quantity": 3.0,
+      "avg_price": 41.20629106679666,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VZ",
+      "quantity": 2.0,
+      "avg_price": 47.20711249303478,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EXC",
+      "quantity": 3.0,
+      "avg_price": 44.643418409306456,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ETR",
+      "quantity": 1.0,
+      "avg_price": 106.11601344048451,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CPRT",
+      "quantity": 4.0,
+      "avg_price": 29.42444554532432,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MO",
+      "quantity": 1.0,
+      "avg_price": 65.17482421675774,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "VTRS",
+      "quantity": 7.0,
+      "avg_price": 16.44250487637861,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TFC",
+      "quantity": 2.0,
+      "avg_price": 52.07284106855262,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EQT",
+      "quantity": 2.0,
+      "avg_price": 53.978182415885506,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PATH",
+      "quantity": 8.0,
+      "avg_price": 15.792378037714542,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CTVA",
+      "quantity": 1.0,
+      "avg_price": 76.62155977117683,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ROL",
+      "quantity": 3.0,
+      "avg_price": 37.08562930375744,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KEY",
+      "quantity": 5.0,
+      "avg_price": 22.823445114156645,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OKE",
+      "quantity": 1.0,
+      "avg_price": 90.47372480436347,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LKQ",
+      "quantity": 5.0,
+      "avg_price": 24.87879711725504,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TROW",
+      "quantity": 1.0,
+      "avg_price": 114.96241815183649,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LVS",
+      "quantity": 2.0,
+      "avg_price": 45.396865141998454,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FAST",
+      "quantity": 2.0,
+      "avg_price": 52.647932179188004,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CHWY",
+      "quantity": 5.0,
+      "avg_price": 22.843459885213946,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CFG",
+      "quantity": 1.0,
+      "avg_price": 73.091004292973,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "APTV",
+      "quantity": 2.0,
+      "avg_price": 50.07760179897092,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AFRM",
+      "quantity": 1.0,
+      "avg_price": 76.56156128638727,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HBAN",
+      "quantity": 7.0,
+      "avg_price": 17.72266646627684,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TGTX",
+      "quantity": 2.0,
+      "avg_price": 49.88760521635218,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "OXY",
+      "quantity": 2.0,
+      "avg_price": 58.99896475598097,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PCG",
+      "quantity": 7.0,
+      "avg_price": 17.10259165650664,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FMC",
+      "quantity": 11.0,
+      "avg_price": 10.531662580664273,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FLEX",
+      "quantity": 1.0,
+      "avg_price": 123.93893870107834,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "RBLX",
+      "quantity": 3.0,
+      "avg_price": 37.09565011354099,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LUV",
+      "quantity": 3.0,
+      "avg_price": 45.69032825726356,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CSX",
+      "quantity": 2.0,
+      "avg_price": 50.467598557737745,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "HAL",
+      "quantity": 3.0,
+      "avg_price": 33.80513321921689,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IP",
+      "quantity": 2.0,
+      "avg_price": 41.56626977477162,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "AOS",
+      "quantity": 2.0,
+      "avg_price": 63.552224641518535,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FIS",
+      "quantity": 2.0,
+      "avg_price": 42.711450615298695,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SO",
+      "quantity": 1.0,
+      "avg_price": 91.67883514903555,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "QS",
+      "quantity": 19.0,
+      "avg_price": 6.300961403639887,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LYB",
+      "quantity": 2.0,
+      "avg_price": 63.559637186360675,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TECH",
+      "quantity": 1.0,
+      "avg_price": 72.25584692739764,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LW",
+      "quantity": 2.0,
+      "avg_price": 52.24794799455943,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "FTV",
+      "quantity": 2.0,
+      "avg_price": 62.5194421311486,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "LNT",
+      "quantity": 1.0,
+      "avg_price": 68.1902852320229,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "COO",
+      "quantity": 1.0,
+      "avg_price": 77.03166486657517,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CE",
+      "quantity": 3.0,
+      "avg_price": 45.78367020008489,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CYTK",
+      "quantity": 1.0,
+      "avg_price": 78.14182547702148,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CCL",
+      "quantity": 4.0,
+      "avg_price": 28.364295948885758,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SMCI",
+      "quantity": 3.0,
+      "avg_price": 31.96482238244739,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TTD",
+      "quantity": 8.0,
+      "avg_price": 13.432042002678706,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MDT",
+      "quantity": 1.0,
+      "avg_price": 89.93143089624014,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BLDR",
+      "quantity": 1.0,
+      "avg_price": 74.07135566326416,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ORLY",
+      "quantity": 1.0,
+      "avg_price": 93.59412184927892,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DKNG",
+      "quantity": 4.0,
+      "avg_price": 24.793766483094174,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
     {
       "symbol": "ABT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011994631306005928,
-      "conviction": 0.7940544216404618,
-      "expected_reward": 0.002626593693694292,
+      "quantity": 1.0,
+      "avg_price": 109.73652318517127,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CNP",
+      "quantity": 3.0,
+      "avg_price": 40.03937533009304,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MRNA",
+      "quantity": 2.0,
+      "avg_price": 60.49916746827567,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PYPL",
+      "quantity": 2.0,
+      "avg_price": 59.30892416245639,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CMS",
+      "quantity": 1.0,
+      "avg_price": 69.24045368424451,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SBUX",
+      "quantity": 1.0,
+      "avg_price": 106.27605725026812,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NCLH",
+      "quantity": 7.0,
+      "avg_price": 18.87786283361496,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "F",
+      "quantity": 8.0,
+      "avg_price": 14.057119574642254,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "PPL",
+      "quantity": 3.0,
+      "avg_price": 35.285321559650555,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MAS",
+      "quantity": 1.0,
+      "avg_price": 75.88146337355272,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GLXY",
+      "quantity": 3.0,
+      "avg_price": 20.56315832679102,
+      "realized_pnl": 0.22731164321808706,
+      "total_costs": 0.0014816308666510435,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "SRE",
+      "quantity": 1.0,
+      "avg_price": 84.6127834431822,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "NFLX",
+      "quantity": 1.0,
+      "avg_price": 76.78153600201885,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ON",
+      "quantity": 1.0,
+      "avg_price": 81.40232451054638,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "IREN",
+      "quantity": 2.0,
+      "avg_price": 40.34608851590948,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ZTS",
+      "quantity": 1.0,
+      "avg_price": 75.6614184697921,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CLSK",
+      "quantity": 8.0,
+      "avg_price": 11.851805044632572,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "ARWR",
+      "quantity": 1.0,
+      "avg_price": 90.76386239302683,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "MARA",
+      "quantity": 7.0,
+      "avg_price": 9.711479741179202,
+      "realized_pnl": 0.11111864704175112,
+      "total_costs": 0.0013110265088021062,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EW",
+      "quantity": 1.0,
+      "avg_price": 93.2390959864535,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CG",
+      "quantity": 2.0,
+      "avg_price": 49.33248718240119,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "DOW",
+      "quantity": 4.0,
+      "avg_price": 31.112208410628384,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "GM",
+      "quantity": 1.0,
+      "avg_price": 89.0934445215916,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KR",
+      "quantity": 1.0,
+      "avg_price": 56.568509518382605,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "KMI",
+      "quantity": 4.0,
+      "avg_price": 31.5472588364019,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "EIX",
+      "quantity": 1.0,
+      "avg_price": 68.27531037902699,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CORZ",
+      "quantity": 6.0,
+      "avg_price": 20.320610060989374,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "TSCO",
+      "quantity": 3.0,
+      "avg_price": 35.58602954860502,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "BN",
+      "quantity": 3.0,
+      "avg_price": 45.390203072582096,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "CIFR",
+      "quantity": 4.0,
+      "avg_price": 17.685187481727677,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "WULF",
+      "quantity": 5.0,
+      "avg_price": 17.19781611831332,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:00:00"
+    },
+    {
+      "symbol": "C",
+      "quantity": 1.0,
+      "avg_price": 136.03050836174683,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "GILD",
+      "quantity": 1.0,
+      "avg_price": 134.5553084702149,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "XYL",
+      "quantity": 1.0,
+      "avg_price": 122.45871847879657,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "PCAR",
+      "quantity": 1.0,
+      "avg_price": 132.50007338908458,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "PHM",
+      "quantity": 1.0,
+      "avg_price": 131.25015621953045,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "HAS",
+      "quantity": 1.0,
+      "avg_price": 96.78471990666007,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "AFL",
+      "quantity": 1.0,
+      "avg_price": 121.42832067619125,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "NRG",
+      "quantity": 1.0,
+      "avg_price": 121.1235132098936,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "KKR",
+      "quantity": 1.0,
+      "avg_price": 108.46648035435199,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "DUK",
+      "quantity": 1.0,
+      "avg_price": 121.65836345026602,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "NEE",
+      "quantity": 1.0,
+      "avg_price": 85.10282664860105,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "BBY",
+      "quantity": 1.0,
+      "avg_price": 83.75269821321722,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "AA",
+      "quantity": 2.0,
+      "avg_price": 53.638165173066746,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    },
+    {
+      "symbol": "D",
+      "quantity": 1.0,
+      "avg_price": 67.4701896408366,
+      "realized_pnl": 0.0,
+      "total_costs": 0.0,
+      "entry_ts": "2026-08-11T10:30:00"
+    }
+  ],
+  "pending_orders": [
+    {
+      "symbol": "AMCR",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "BSX",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "F",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.011278820449622704,
+      "expected_reward": 5.371510018435129e-05,
+      "reason": "exit"
+    },
+    {
+      "symbol": "GIS",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "HAS",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "LW",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "MDT",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "NU",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "PR",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "QS",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "RIG",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "TSCO",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0,
+      "conviction": 0.0,
+      "expected_reward": 0.0,
+      "reason": "exit"
+    },
+    {
+      "symbol": "A",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0031310277466754226,
       "reason": "entry"
     },
     {
       "symbol": "ADM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001479616737528387,
-      "conviction": 0.97951840518796,
-      "expected_reward": 0.006032257798497249,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.00617588836485911,
+      "reason": "rebalance"
     },
     {
       "symbol": "AEE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014110150188831046,
-      "conviction": 0.9341035052775761,
-      "expected_reward": 0.003457300690499848,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AEHR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014608426330434987,
-      "conviction": 0.967089794171712,
-      "expected_reward": 0.018439138909519287,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AEP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013742794097566695,
-      "conviction": 0.9097842310003457,
-      "expected_reward": 0.0046104457237373855,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AES",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013488000896543448,
-      "conviction": 0.8929167122984467,
-      "expected_reward": 0.0006211557781857189,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.003709193581695819,
+      "reason": "rebalance"
     },
     {
       "symbol": "AFRM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013039222367705076,
-      "conviction": 0.8632072059309623,
-      "expected_reward": 0.004535048970387155,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001499792083015614,
-      "conviction": 0.9928746492304381,
-      "expected_reward": 0.006184619524365683,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AGI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014160534850576995,
-      "conviction": 0.9374390111736346,
-      "expected_reward": 0.006779071302142102,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0012196247018577391,
+      "conviction": 0.7687927466212224,
+      "expected_reward": 0.004427574516793722,
+      "reason": "rebalance"
     },
     {
       "symbol": "AIG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013978208586278222,
-      "conviction": 0.9253688630670284,
-      "expected_reward": 0.004708616608966063,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AKAM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014698428464795593,
-      "conviction": 0.9730480092200007,
-      "expected_reward": 0.016126315583416383,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ALB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.004563555801483976,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AMCR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014440673645137526,
-      "conviction": 0.9559844289375333,
-      "expected_reward": 0.004593419944385891,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015452888162136803,
+      "conviction": 0.9740757394716539,
+      "expected_reward": 0.004962976283839376,
+      "reason": "rebalance"
     },
     {
       "symbol": "AMKR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014665283010930194,
-      "conviction": 0.9708537530125654,
-      "expected_reward": 0.007350755830652743,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AOS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001277973455541477,
-      "conviction": 0.8460289001161136,
-      "expected_reward": 0.005806603939125727,
-      "reason": "entry"
-    },
-    {
-      "symbol": "APA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014451189666462997,
-      "conviction": 0.956680598166793,
-      "expected_reward": 0.01125538916682383,
-      "reason": "entry"
-    },
-    {
-      "symbol": "APTV",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013047600054480954,
-      "conviction": 0.8637618156607482,
-      "expected_reward": 0.004675579776271958,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014529691775793702,
-      "conviction": 0.961877502134232,
-      "expected_reward": 0.009010697802604757,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.008547411920559246,
+      "reason": "rebalance"
     },
     {
       "symbol": "ARE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013509422369025724,
-      "conviction": 0.8943348313309244,
-      "expected_reward": 0.007076041210366356,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ARWR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0010874672640682186,
-      "conviction": 0.7199122402288852,
-      "expected_reward": 0.004751878123874408,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ASTS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015098798851118536,
-      "conviction": 0.9995528568841757,
-      "expected_reward": 0.008222535694166158,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001479934628160222,
+      "conviction": 0.9328796029385988,
+      "expected_reward": 0.007325588789062464,
+      "reason": "rebalance"
     },
     {
       "symbol": "AU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.010070702726208792,
-      "reason": "entry"
-    },
-    {
-      "symbol": "AWK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014971881167576608,
-      "conviction": 0.991150802229076,
-      "expected_reward": 0.005721182200672229,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BABA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014222327240681692,
-      "conviction": 0.9415297180352785,
-      "expected_reward": 0.007414961626955066,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BAC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013835376268040804,
-      "conviction": 0.915913246553598,
-      "expected_reward": 0.0019866755114319374,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BALL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013908468513567735,
-      "conviction": 0.9207520131040319,
-      "expected_reward": 0.00439303739274006,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BAX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0038934390294904863,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BEN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.002893499481723519,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001510793358164597,
+      "conviction": 0.952331461990953,
+      "expected_reward": 0.009226346448667272,
+      "reason": "rebalance"
     },
     {
       "symbol": "BG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.005948200652354137,
-      "reason": "entry"
+      "expected_reward": 0.006083108967253744,
+      "reason": "rebalance"
     },
     {
       "symbol": "BHP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014140551790481346,
-      "conviction": 0.9361161162198806,
-      "expected_reward": 0.0031891332214163976,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015534700271759205,
+      "conviction": 0.9792327813360634,
+      "expected_reward": 0.003529393108472413,
+      "reason": "rebalance"
     },
     {
       "symbol": "BIDU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.00956088894043008,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BKR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014169696058046245,
-      "conviction": 0.9380454906153897,
-      "expected_reward": 0.0046631593415411765,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015489594416330467,
+      "conviction": 0.9763895251744803,
+      "expected_reward": 0.00951960294549124,
       "reason": "entry"
     },
     {
       "symbol": "BLDR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012152618915644558,
-      "conviction": 0.8045133308638862,
-      "expected_reward": 0.008137563459514007,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BMNR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013962770674550433,
-      "conviction": 0.9243468606598173,
-      "expected_reward": 0.009232508503894933,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BMY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014317824969151155,
-      "conviction": 0.9478517459170216,
-      "expected_reward": 0.00262223613291722,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0006532836012097876,
-      "conviction": 0.43247909743260904,
-      "expected_reward": 0.002319465109314188,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BRO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014809321637758368,
-      "conviction": 0.9803892281432318,
-      "expected_reward": 0.004260032927470484,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BSX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013913943246765571,
-      "conviction": 0.9211144449280819,
-      "expected_reward": 0.0055914078583301,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BWA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013780322466467147,
-      "conviction": 0.9122686397747477,
-      "expected_reward": 0.005198621674096405,
-      "reason": "entry"
-    },
-    {
-      "symbol": "BXP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001382294910504396,
-      "conviction": 0.9150905581795792,
-      "expected_reward": 0.004925213641531448,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CAG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001358142218398127,
-      "conviction": 0.899101278082324,
-      "expected_reward": 0.004066561563473465,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CARR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00134633371365793,
-      "conviction": 0.8912839511777273,
-      "expected_reward": 0.0034496970612118627,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CAVA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014680148690885742,
-      "conviction": 0.9718378732075301,
-      "expected_reward": 0.00570182378475339,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CCEP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001407568341931341,
-      "conviction": 0.9318217768911907,
-      "expected_reward": 0.0038862453735840725,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014101421911043152,
+      "conviction": 0.8888858077195692,
+      "expected_reward": 0.008652753971876896,
+      "reason": "rebalance"
     },
     {
       "symbol": "CCI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014590698744254955,
-      "conviction": 0.9659162134394541,
-      "expected_reward": 0.004138081340326011,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CCJ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013843248020816753,
-      "conviction": 0.9164343630379931,
-      "expected_reward": 0.004842981499509996,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015639057258783292,
+      "conviction": 0.9858109438282757,
+      "expected_reward": 0.004301862435103045,
+      "reason": "rebalance"
     },
     {
       "symbol": "CCL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012403873732041734,
-      "conviction": 0.8211466056039562,
-      "expected_reward": 0.006487020274609162,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CDE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.008567152136002098,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CDW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015014738143981762,
-      "conviction": 0.9939879691868977,
-      "expected_reward": 0.0035482855328524375,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001251922229342049,
-      "conviction": 0.828782774891361,
-      "expected_reward": 0.006047316261846249,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CELH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013959240216731552,
-      "conviction": 0.92411314145912,
-      "expected_reward": 0.014684115082565058,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014001323890613954,
-      "conviction": 0.926899115156241,
-      "expected_reward": 0.008405017749339185,
-      "reason": "entry"
+      "expected_reward": 0.008027712642106116,
+      "reason": "rebalance"
     },
     {
       "symbol": "CFG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013048056750081726,
-      "conviction": 0.8637920492837655,
-      "expected_reward": 0.001783471429854021,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013268108534948528,
+      "conviction": 0.8363577408291434,
+      "expected_reward": 0.0020253601109999526,
+      "reason": "rebalance"
     },
     {
       "symbol": "CG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0010249837280856301,
-      "conviction": 0.6785476273775822,
-      "expected_reward": 0.006286638683082717,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015858932602526728,
+      "conviction": 0.9996708278707457,
+      "expected_reward": 0.009508712164907104,
+      "reason": "rebalance"
     },
     {
       "symbol": "CHD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.0024368230256719653,
-      "reason": "entry"
+      "expected_reward": 0.002727097877327595,
+      "reason": "rebalance"
     },
     {
       "symbol": "CHRD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0072887378395405725,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0008432735943267373,
+      "conviction": 0.5315591113791847,
+      "expected_reward": 0.00394441656273738,
+      "reason": "rebalance"
     },
     {
-      "symbol": "CHWY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001306748852435862,
-      "conviction": 0.8650784486645584,
-      "expected_reward": 0.00403028962611422,
+      "symbol": "CHRW",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.005363503872501763,
       "reason": "entry"
     },
     {
       "symbol": "CIFR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0004804324604591855,
-      "conviction": 0.31805022580077463,
-      "expected_reward": 0.007534609628699847,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014287616397769876,
+      "conviction": 0.9006226125447198,
+      "expected_reward": 0.02180505265897729,
+      "reason": "rebalance"
     },
     {
       "symbol": "CL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00149963622767085,
-      "conviction": 0.9927714717150241,
-      "expected_reward": 0.002518833570238567,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CLF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001379365497089949,
-      "conviction": 0.913151262493692,
-      "expected_reward": 0.006427243780077742,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015773313317668524,
+      "conviction": 0.9942737999924467,
+      "expected_reward": 0.0027773114389357412,
+      "reason": "rebalance"
     },
     {
       "symbol": "CLSK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001096625850680863,
-      "conviction": 0.7259752996178853,
-      "expected_reward": 0.007954919029332192,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CLX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013641308201912642,
-      "conviction": 0.9030657815438881,
-      "expected_reward": 0.003654795350650505,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CMCSA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.004473417176066985,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CMG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013412902023587899,
-      "conviction": 0.8879451053678769,
-      "expected_reward": 0.003136583818491471,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015238588199435203,
+      "conviction": 0.9605673006318012,
+      "expected_reward": 0.010972989190673998,
+      "reason": "rebalance"
     },
     {
       "symbol": "CMS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011844344306813942,
-      "conviction": 0.7841052991389874,
-      "expected_reward": 0.0031628664598663146,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CNC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006098324528613502,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CNP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011954738364982618,
-      "conviction": 0.791413476253842,
-      "expected_reward": 0.0027202852040484715,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013718467165124888,
+      "conviction": 0.8647461825957353,
+      "expected_reward": 0.0034945157481188435,
+      "reason": "rebalance"
     },
     {
       "symbol": "COO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012557681863065106,
-      "conviction": 0.8313288299181133,
-      "expected_reward": 0.0034091326177494493,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0012403861677763688,
+      "conviction": 0.7818797760845926,
+      "expected_reward": 0.0032968283526997387,
+      "reason": "rebalance"
     },
     {
       "symbol": "COP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013875559792269911,
-      "conviction": 0.9185734287865643,
-      "expected_reward": 0.00634546334375888,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CORZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0007238319002192103,
-      "conviction": 0.47918264949560213,
-      "expected_reward": 0.006911723392388946,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0009185581976583809,
+      "conviction": 0.5790149040385684,
+      "expected_reward": 0.004026534813054855,
+      "reason": "rebalance"
     },
     {
       "symbol": "CPB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014288251597745186,
-      "conviction": 0.9458939644955978,
-      "expected_reward": 0.0031592602686588743,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CPRT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013262492529035664,
-      "conviction": 0.8779878735731732,
-      "expected_reward": 0.0032961178085465733,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00028109079596291847,
+      "conviction": 0.17718611696623737,
+      "expected_reward": 0.000689773762020763,
+      "reason": "rebalance"
     },
     {
       "symbol": "CPT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014353292338209328,
-      "conviction": 0.9501997148129471,
-      "expected_reward": 0.00366651766437538,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CROX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014934926021839302,
-      "conviction": 0.9887043412978108,
-      "expected_reward": 0.007514382931057653,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CSCO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006297206814492674,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CSGP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006462692546829967,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015841290055837252,
+      "conviction": 0.9985587265902341,
+      "expected_reward": 0.0038670535341324887,
+      "reason": "rebalance"
     },
     {
       "symbol": "CSX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012826691714992425,
-      "conviction": 0.8491375025599123,
-      "expected_reward": 0.0022064959972135723,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0031528499610986934,
+      "reason": "rebalance"
     },
     {
       "symbol": "CTSH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001481748299093815,
-      "conviction": 0.9809295164116784,
-      "expected_reward": 0.004011123815310238,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0007455120478587103,
+      "conviction": 0.4699349349348973,
+      "expected_reward": 0.0019297782897948709,
+      "reason": "rebalance"
     },
     {
       "symbol": "CTVA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001319440014323436,
-      "conviction": 0.8734801018337869,
-      "expected_reward": 0.0031516728714158465,
-      "reason": "entry"
-    },
-    {
-      "symbol": "CVNA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.010665460207580003,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001580604515061274,
+      "conviction": 0.9963370572971568,
+      "expected_reward": 0.003900429912486869,
+      "reason": "rebalance"
     },
     {
       "symbol": "CVS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014447267863187967,
-      "conviction": 0.9564209715762048,
-      "expected_reward": 0.002478876138146211,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001436401412321329,
+      "conviction": 0.9054383576743315,
+      "expected_reward": 0.0029947435686385293,
+      "reason": "rebalance"
     },
     {
       "symbol": "CYTK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012443018735141024,
-      "conviction": 0.8237380368870967,
-      "expected_reward": 0.003370378096242042,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014747485679849678,
+      "conviction": 0.9296105600599136,
+      "expected_reward": 0.004593749284857008,
+      "reason": "rebalance"
+    },
+    {
+      "symbol": "D",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015328701769288685,
+      "conviction": 0.9662476266181457,
+      "expected_reward": 0.003510028085847201,
+      "reason": "rebalance"
     },
     {
       "symbol": "DAL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014029646807273823,
-      "conviction": 0.9287741154487688,
-      "expected_reward": 0.004669479428211375,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015414988012271945,
+      "conviction": 0.9716866963284986,
+      "expected_reward": 0.004874641940882635,
+      "reason": "rebalance"
+    },
+    {
+      "symbol": "DD",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.007947326607252269,
       "reason": "entry"
     },
     {
       "symbol": "DECK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014078000219419923,
-      "conviction": 0.931975150956779,
-      "expected_reward": 0.00775809245378507,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014297603292073302,
-      "conviction": 0.9465130543235071,
-      "expected_reward": 0.007859858180823485,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014860471779394118,
+      "conviction": 0.9367326602983295,
+      "expected_reward": 0.007869771380841597,
       "reason": "entry"
     },
     {
       "symbol": "DIS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014714550370282015,
-      "conviction": 0.9741152925745421,
-      "expected_reward": 0.0036348099437535815,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DKNG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001205878320226654,
-      "conviction": 0.7983013297431605,
-      "expected_reward": 0.009165446831605556,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DLTR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014651993082312447,
-      "conviction": 0.9699739488474368,
-      "expected_reward": 0.005173512060715052,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DOC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014911866214269752,
-      "conviction": 0.9871777631399967,
-      "expected_reward": 0.0038230695418047223,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DOCN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.012608980019746004,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DOCU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013582187322129793,
-      "conviction": 0.8991519308547603,
-      "expected_reward": 0.0032649446015205314,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DOW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0010062592039809092,
-      "conviction": 0.6661518389792993,
-      "expected_reward": 0.003906364072627507,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DTE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014520446902514862,
-      "conviction": 0.9612654839473208,
-      "expected_reward": 0.003227191375663852,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DUOL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014362523443192166,
-      "conviction": 0.9508108215273802,
-      "expected_reward": 0.013453563328993617,
-      "reason": "entry"
-    },
-    {
-      "symbol": "DVN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014521691919169928,
-      "conviction": 0.9613479050701341,
-      "expected_reward": 0.007999983986948832,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014588399093511863,
+      "conviction": 0.9195825068829856,
+      "expected_reward": 0.0034573078170724273,
+      "reason": "rebalance"
     },
     {
       "symbol": "DXCM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.005253338639952653,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EBAY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014720746102245726,
-      "conviction": 0.9745254551077266,
-      "expected_reward": 0.007386985277141168,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015249892324983774,
+      "conviction": 0.9612798583321659,
+      "expected_reward": 0.0053633624026753245,
+      "reason": "rebalance"
     },
     {
       "symbol": "ED",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001352089566947695,
-      "conviction": 0.8950943732227661,
-      "expected_reward": 0.003700130308017676,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.004196543652958621,
+      "reason": "rebalance"
     },
     {
       "symbol": "EIX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0008858588097492861,
-      "conviction": 0.5864457913586407,
-      "expected_reward": 0.00231164910121428,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012083438963249702,
-      "conviction": 0.7999335613247838,
-      "expected_reward": 0.004981504741673966,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0011660772014188516,
+      "conviction": 0.7350389780443745,
+      "expected_reward": 0.002932724868846287,
+      "reason": "rebalance"
     },
     {
       "symbol": "ELF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.014736942076746383,
-      "reason": "entry"
+      "expected_reward": 0.01464538572475331,
+      "reason": "rebalance"
     },
     {
-      "symbol": "ENPH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014190388806824984,
-      "conviction": 0.9394153675415294,
-      "expected_reward": 0.007527881811804257,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EPAM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001401516351615385,
-      "conviction": 0.9278153097080738,
-      "expected_reward": 0.007775141833810403,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EQR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014531886629796705,
-      "conviction": 0.9620228032678372,
-      "expected_reward": 0.0036207889943874064,
+      "symbol": "ENTG",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.014154063531353915,
       "reason": "entry"
     },
     {
       "symbol": "EQT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013205689837907768,
-      "conviction": 0.8742274888726783,
-      "expected_reward": 0.00524655312417694,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EQX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.010814603242411524,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0008371638646843955,
+      "conviction": 0.527707831698071,
+      "expected_reward": 0.003182249378447855,
+      "reason": "rebalance"
     },
     {
       "symbol": "ES",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013489708977059934,
-      "conviction": 0.8930297886283507,
-      "expected_reward": 0.004143347936444816,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015206037158960286,
+      "conviction": 0.9585154396147217,
+      "expected_reward": 0.004526350561837906,
+      "reason": "rebalance"
     },
     {
       "symbol": "ETR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013275688109381128,
-      "conviction": 0.8788614318053618,
-      "expected_reward": 0.0029892580687575685,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014679932475227667,
+      "conviction": 0.9253523309796633,
+      "expected_reward": 0.003160599214213313,
+      "reason": "rebalance"
     },
     {
       "symbol": "ETSY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014812170468804088,
-      "conviction": 0.9805778230929765,
-      "expected_reward": 0.008642415089943789,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013912113956762561,
+      "conviction": 0.8769527448759802,
+      "expected_reward": 0.007680931469588861,
+      "reason": "rebalance"
     },
     {
       "symbol": "EVRG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014539531408938942,
-      "conviction": 0.9625288939116838,
-      "expected_reward": 0.0030744246093284875,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.003386854049923966,
+      "reason": "rebalance"
     },
     {
       "symbol": "EW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001068008897000808,
-      "conviction": 0.7070306417757138,
-      "expected_reward": 0.0036787952055267717,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014868878699411685,
+      "conviction": 0.9372625920979302,
+      "expected_reward": 0.004963424145326523,
+      "reason": "rebalance"
     },
     {
-      "symbol": "EXC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013280399013204417,
-      "conviction": 0.8791732974988853,
-      "expected_reward": 0.0040959662933185755,
-      "reason": "entry"
-    },
-    {
-      "symbol": "EXEL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014381343662829846,
-      "conviction": 0.9520567354899095,
-      "expected_reward": 0.004457449983999018,
-      "reason": "entry"
-    },
-    {
-      "symbol": "F",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011784806089381115,
-      "conviction": 0.7801638203554374,
-      "expected_reward": 0.0036972855886662653,
+      "symbol": "EXR",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015781852667046813,
+      "conviction": 0.994812079501946,
+      "expected_reward": 0.005045254932421057,
       "reason": "entry"
     },
     {
       "symbol": "FAST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001307620444778196,
-      "conviction": 0.8656554499375796,
-      "expected_reward": 0.002496914380350749,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FCEL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013489220535848982,
-      "conviction": 0.8929974534199251,
-      "expected_reward": 0.00789779460242278,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FCX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.004728721546609975,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014564815392127336,
-      "conviction": 0.9642027143180996,
-      "expected_reward": 0.0032020212148856143,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FIS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012767995501119518,
-      "conviction": 0.8452517651020216,
-      "expected_reward": 0.004093342729781536,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FITB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001400434736679493,
-      "conviction": 0.9270992717570551,
-      "expected_reward": 0.0018680718137616971,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FLEX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012903768800644779,
-      "conviction": 0.8542400687920871,
-      "expected_reward": 0.009385663899369786,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FMC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012915936782717948,
-      "conviction": 0.8550455991765686,
-      "expected_reward": 0.0065967875687631,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FORM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014437476716994283,
-      "conviction": 0.9557727896746794,
-      "expected_reward": 0.013066412057081896,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FOX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0050771941995165805,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FOXA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.005010401289455568,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015775410814865907,
+      "conviction": 0.9944060161265532,
+      "expected_reward": 0.0029425867767885433,
+      "reason": "rebalance"
     },
     {
       "symbol": "FROG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.01066579372455772,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FRT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014099696557640378,
-      "conviction": 0.9334114663263671,
-      "expected_reward": 0.0025827003455079233,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FTV",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012589123696026415,
-      "conviction": 0.8334103050256397,
-      "expected_reward": 0.003043585977654244,
-      "reason": "entry"
-    },
-    {
-      "symbol": "FUTU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006951890143765862,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015722495416780845,
+      "conviction": 0.9910704839607646,
+      "expected_reward": 0.010489846808868403,
+      "reason": "rebalance"
     },
     {
       "symbol": "GEHC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.002495417299868606,
-      "reason": "entry"
-    },
-    {
-      "symbol": "GEN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.003849245391039869,
-      "reason": "entry"
-    },
-    {
-      "symbol": "GFI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013870155591006507,
-      "conviction": 0.9182156662343721,
-      "expected_reward": 0.009000804849001695,
-      "reason": "entry"
+      "expected_reward": 0.00244512486141787,
+      "reason": "rebalance"
     },
     {
       "symbol": "GFS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014109844080590207,
-      "conviction": 0.9340832406611876,
-      "expected_reward": 0.009776218396647371,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00158157385571481,
+      "conviction": 0.9969480830186829,
+      "expected_reward": 0.010900375689910115,
+      "reason": "rebalance"
     },
     {
-      "symbol": "GIS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014257081305102887,
-      "conviction": 0.9438304655797077,
-      "expected_reward": 0.003264337969903318,
-      "reason": "entry"
+      "symbol": "GILD",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0009707654921628839,
+      "conviction": 0.6119238712599141,
+      "expected_reward": 0.0029067474196738476,
+      "reason": "rebalance"
     },
     {
       "symbol": "GLXY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011438715534292498,
-      "conviction": 0.7572523419994069,
-      "expected_reward": 0.012824532909387452,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013879645612680665,
+      "conviction": 0.8749060966417371,
+      "expected_reward": 0.014083854837266947,
+      "reason": "rebalance"
     },
     {
       "symbol": "GM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0009711797326660543,
-      "conviction": 0.6429289415048077,
-      "expected_reward": 0.003019430071829622,
-      "reason": "entry"
-    },
-    {
-      "symbol": "GPN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014210197711004087,
-      "conviction": 0.9407267332308936,
-      "expected_reward": 0.00514034022900382,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014836490670806326,
+      "conviction": 0.9352210065650008,
+      "expected_reward": 0.00458078321374435,
+      "reason": "rebalance"
     },
     {
       "symbol": "GTLB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013328817784889371,
-      "conviction": 0.8823786598619273,
-      "expected_reward": 0.006978426600057338,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00042850648397919417,
+      "conviction": 0.27010987581800683,
+      "expected_reward": 0.0022507472181137575,
+      "reason": "rebalance"
     },
     {
       "symbol": "HAL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012797776234929116,
-      "conviction": 0.8472232740844917,
-      "expected_reward": 0.007335544603644225,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015170162854920067,
+      "conviction": 0.9562540960477872,
+      "expected_reward": 0.008301276526191278,
+      "reason": "rebalance"
     },
     {
       "symbol": "HALO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015008101687694756,
-      "conviction": 0.9935486303423529,
-      "expected_reward": 0.007064211059628983,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015772563776758214,
+      "conviction": 0.9942265525388435,
+      "expected_reward": 0.006958604416430459,
+      "reason": "rebalance"
     },
     {
       "symbol": "HBAN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013038009206989677,
-      "conviction": 0.8631268936974599,
-      "expected_reward": 0.0025374819047010513,
-      "reason": "entry"
-    },
-    {
-      "symbol": "HIG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0033299463368553456,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0005858520859790438,
+      "conviction": 0.36929297480409473,
+      "expected_reward": 0.001151548338236339,
+      "reason": "rebalance"
     },
     {
       "symbol": "HIMS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013989697515722423,
-      "conviction": 0.9261294396110122,
-      "expected_reward": 0.0086019386102213,
-      "reason": "entry"
-    },
-    {
-      "symbol": "HL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.007260559389304247,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0005310061763998439,
+      "conviction": 0.33472075156025094,
+      "expected_reward": 0.0035201938922913077,
       "reason": "entry"
     },
     {
       "symbol": "HOOD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014880120805825818,
-      "conviction": 0.9850761910867512,
-      "expected_reward": 0.004588261390632564,
-      "reason": "entry"
-    },
-    {
-      "symbol": "HPE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014876545403714172,
-      "conviction": 0.9848394965370425,
-      "expected_reward": 0.011555289619276033,
-      "reason": "entry"
-    },
-    {
-      "symbol": "HPQ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013854229599902508,
-      "conviction": 0.9171613525724919,
-      "expected_reward": 0.006670149568783593,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013225350816500566,
+      "conviction": 0.8336624999280042,
+      "expected_reward": 0.003774581445754584,
+      "reason": "rebalance"
     },
     {
       "symbol": "HRL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014341712508844113,
-      "conviction": 0.9494331206197028,
-      "expected_reward": 0.0034544494594108037,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014909930783810624,
+      "conviction": 0.939850318032926,
+      "expected_reward": 0.0033987282560597816,
+      "reason": "rebalance"
     },
     {
       "symbol": "HSIC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014263588737971023,
-      "conviction": 0.9442612629681931,
-      "expected_reward": 0.0043024836655389575,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015412531562936527,
+      "conviction": 0.9715318535782137,
+      "expected_reward": 0.004446104538799042,
+      "reason": "rebalance"
     },
     {
       "symbol": "HST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006008365184385763,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013266321641280429,
+      "conviction": 0.836245103647482,
+      "expected_reward": 0.005128265550749929,
+      "reason": "rebalance"
+    },
+    {
+      "symbol": "HUT",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001326086468515617,
+      "conviction": 0.8359011233820306,
+      "expected_reward": 0.01715920711949396,
       "reason": "entry"
     },
     {
       "symbol": "IBKR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013342399382008864,
-      "conviction": 0.883277772720884,
-      "expected_reward": 0.004151882705146967,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0053433152478616144,
+      "reason": "rebalance"
     },
     {
       "symbol": "IFF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014375348300907258,
-      "conviction": 0.9516598376176438,
-      "expected_reward": 0.005266314858531672,
-      "reason": "entry"
-    },
-    {
-      "symbol": "INCY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014960550789964368,
-      "conviction": 0.9904007219462957,
-      "expected_reward": 0.0031353362930537443,
-      "reason": "entry"
-    },
-    {
-      "symbol": "INSM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006641043225192006,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015581096377885147,
+      "conviction": 0.9821573686953357,
+      "expected_reward": 0.005394871522238919,
+      "reason": "rebalance"
     },
     {
       "symbol": "INTC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014533928280253696,
-      "conviction": 0.9621579622011515,
-      "expected_reward": 0.010799405049939637,
-      "reason": "entry"
-    },
-    {
-      "symbol": "INVH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0030614920519050864,
-      "reason": "entry"
-    },
-    {
-      "symbol": "IONQ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014850191120649853,
-      "conviction": 0.9830948214017668,
-      "expected_reward": 0.013642913842040633,
-      "reason": "entry"
-    },
-    {
-      "symbol": "IONS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0034845001121802245,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013128977563172577,
+      "conviction": 0.8275875936052648,
+      "expected_reward": 0.009267472268544472,
       "reason": "entry"
     },
     {
       "symbol": "IP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012787224493109452,
-      "conviction": 0.8465247401292448,
-      "expected_reward": 0.0029627399117270734,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013711434735975316,
+      "conviction": 0.864302892088985,
+      "expected_reward": 0.002824859685705471,
+      "reason": "rebalance"
     },
     {
       "symbol": "IR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014938537826300103,
-      "conviction": 0.9889434457128639,
-      "expected_reward": 0.0035182093661342713,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0047187655946324845,
+      "reason": "rebalance"
     },
     {
       "symbol": "IREN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011212404580712896,
-      "conviction": 0.7422703714184878,
-      "expected_reward": 0.011358043183153354,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014314191244620357,
+      "conviction": 0.902297763061932,
+      "expected_reward": 0.014087560046692621,
+      "reason": "rebalance"
     },
     {
-      "symbol": "IRM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001498308924572633,
-      "conviction": 0.9918927861872175,
-      "expected_reward": 0.004111037823688903,
-      "reason": "entry"
-    },
-    {
-      "symbol": "IVZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001393888603118707,
-      "conviction": 0.9227656776965288,
-      "expected_reward": 0.004505443026256576,
+      "symbol": "J",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.005212924403161629,
       "reason": "entry"
     },
     {
       "symbol": "JD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001507503686820568,
-      "conviction": 0.9979797941432268,
-      "expected_reward": 0.011147256464843458,
-      "reason": "entry"
-    },
-    {
-      "symbol": "JOBY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.013735242450423728,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KDP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006653001267459189,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KEY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013147917374643414,
-      "conviction": 0.8704029044620551,
-      "expected_reward": 0.0018001369536388798,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KGC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.007468161342769246,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001532051501153581,
+      "conviction": 0.9657315727887038,
+      "expected_reward": 0.010804060492833204,
+      "reason": "rebalance"
     },
     {
       "symbol": "KHC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014284633230415493,
-      "conviction": 0.9456544256132461,
-      "expected_reward": 0.004451884296587673,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KIM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001428517138312096,
-      "conviction": 0.9456900517633453,
-      "expected_reward": 0.0033039045775084524,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.000893043566553271,
+      "conviction": 0.5629317078746613,
+      "expected_reward": 0.0027590256994174086,
+      "reason": "rebalance"
     },
     {
       "symbol": "KLIC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014410505757310277,
-      "conviction": 0.9539872900418354,
-      "expected_reward": 0.009963976518078593,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KMB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013584524862752573,
-      "conviction": 0.8993066779595215,
-      "expected_reward": 0.0045323875856577624,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KMI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0009376516593406874,
-      "conviction": 0.6207330822125237,
-      "expected_reward": 0.002037825967271175,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001567078969259486,
+      "conviction": 0.9878112038188952,
+      "expected_reward": 0.012019138940835481,
+      "reason": "rebalance"
     },
     {
       "symbol": "KMX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014982401189793397,
-      "conviction": 0.9918472363206194,
-      "expected_reward": 0.005388124826427801,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.005593885717022702,
+      "reason": "rebalance"
     },
     {
       "symbol": "KO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014737956100552368,
-      "conviction": 0.9756647710986208,
-      "expected_reward": 0.0021782046229038236,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0023588947090873186,
       "reason": "entry"
     },
     {
       "symbol": "KR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0009579912499185232,
-      "conviction": 0.6341980578509163,
-      "expected_reward": 0.001626251504003045,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KTOS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006596462403749798,
-      "reason": "entry"
-    },
-    {
-      "symbol": "KVUE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013352748418598316,
-      "conviction": 0.883962887423781,
-      "expected_reward": 0.0036162603041267937,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0012683234482983928,
+      "conviction": 0.7994900939085419,
+      "expected_reward": 0.002054339426604461,
+      "reason": "rebalance"
     },
     {
       "symbol": "L",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014969566493993236,
-      "conviction": 0.9909975689410624,
-      "expected_reward": 0.0026727533714507867,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0026900372589591954,
+      "reason": "rebalance"
     },
     {
       "symbol": "LDOS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0039334403136802995,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00030378125267918203,
+      "conviction": 0.19148908944163492,
+      "expected_reward": 0.0009242150620845388,
+      "reason": "rebalance"
     },
     {
       "symbol": "LEN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001441886862346185,
-      "conviction": 0.9545409186341473,
-      "expected_reward": 0.006933599726475349,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LKQ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013129834663828104,
-      "conviction": 0.8692058141879296,
-      "expected_reward": 0.0046297645960682475,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014446007970951085,
+      "conviction": 0.9106068554353529,
+      "expected_reward": 0.0063274695737168775,
+      "reason": "rebalance"
     },
     {
       "symbol": "LNT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001257574936404821,
-      "conviction": 0.832524913288883,
-      "expected_reward": 0.0032784694956148304,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LSCC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.00697937554720474,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LULU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013400970119847976,
-      "conviction": 0.8871552035625142,
-      "expected_reward": 0.0070001069188838924,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001553938969143091,
+      "conviction": 0.9795283797954893,
+      "expected_reward": 0.003960414890262673,
+      "reason": "rebalance"
     },
     {
       "symbol": "LUNR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014744943042076526,
-      "conviction": 0.9761273123530756,
-      "expected_reward": 0.009583167011729905,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LUV",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012845546293306107,
-      "conviction": 0.8503856910949488,
-      "expected_reward": 0.008070551299937325,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0010582136164100037,
+      "conviction": 0.6670469624242804,
+      "expected_reward": 0.007528762902752737,
+      "reason": "rebalance"
     },
     {
       "symbol": "LVS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013090655119965384,
-      "conviction": 0.866612096277945,
-      "expected_reward": 0.0028043468440675278,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001259466908030821,
-      "conviction": 0.8337774140093439,
-      "expected_reward": 0.002443458609599672,
-      "reason": "entry"
-    },
-    {
-      "symbol": "LYB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012685592814911852,
-      "conviction": 0.8397966397489409,
-      "expected_reward": 0.005524335980780954,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013728548800030136,
+      "conviction": 0.8653816803662735,
+      "expected_reward": 0.003041442202154988,
+      "reason": "rebalance"
     },
     {
       "symbol": "LYFT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0066497542609694265,
-      "reason": "entry"
-    },
-    {
-      "symbol": "M",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.005836711926741978,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MAA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014280221540065893,
-      "conviction": 0.9453623680968758,
-      "expected_reward": 0.0033963815335603994,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0009095379518978011,
+      "conviction": 0.5733289749958788,
+      "expected_reward": 0.004107191832188838,
+      "reason": "rebalance"
     },
     {
       "symbol": "MARA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001075338700193437,
-      "conviction": 0.7118830315544202,
-      "expected_reward": 0.010060509808522517,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0011939254382283423,
+      "conviction": 0.7525931669950535,
+      "expected_reward": 0.010691975769954646,
+      "reason": "rebalance"
     },
     {
       "symbol": "MAS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011728321856885077,
-      "conviction": 0.776424517877337,
-      "expected_reward": 0.005412512866043373,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014532047241682768,
+      "conviction": 0.916030357202933,
+      "expected_reward": 0.006160572417711155,
+      "reason": "rebalance"
     },
     {
       "symbol": "MCHP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.008067545763854544,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MDLZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014463286956628448,
-      "conviction": 0.957481448689054,
-      "expected_reward": 0.0037816503335743896,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MDT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00121641961128808,
-      "conviction": 0.8052797508080357,
-      "expected_reward": 0.002215548235660619,
-      "reason": "entry"
+      "expected_reward": 0.007885835868021824,
+      "reason": "rebalance"
     },
     {
       "symbol": "MET",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.0019840352396049165,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MGM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001405605897975794,
-      "conviction": 0.9305226229110736,
-      "expected_reward": 0.003622785769587187,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MHK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006007554774994254,
-      "reason": "entry"
+      "expected_reward": 0.0018583040467600501,
+      "reason": "rebalance"
     },
     {
       "symbol": "MKC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014917343317001656,
-      "conviction": 0.9875403518291439,
-      "expected_reward": 0.003965524041016356,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001530320321312887,
+      "conviction": 0.9646403202889839,
+      "expected_reward": 0.003817841647784899,
+      "reason": "rebalance"
     },
     {
       "symbol": "MNST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012060788116064758,
-      "conviction": 0.7984340566795596,
-      "expected_reward": 0.004454136431657693,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.005937201968760362,
       "reason": "entry"
     },
     {
       "symbol": "MO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013257915090026694,
-      "conviction": 0.8776848433597275,
-      "expected_reward": 0.004881544778776607,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015131796003165434,
+      "conviction": 0.9538356342623934,
+      "expected_reward": 0.005271215608353813,
+      "reason": "rebalance"
     },
     {
-      "symbol": "MOS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001413258577784003,
-      "conviction": 0.9355887596551552,
-      "expected_reward": 0.006858426826376528,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "symbol": "MRK",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.018680535972262227,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MRNA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011871068634965857,
-      "conviction": 0.7858744715623008,
-      "expected_reward": 0.0071504096222100655,
+      "expected_reward": 0.0030486509135699913,
       "reason": "entry"
     },
     {
       "symbol": "MSTR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001480552173528124,
-      "conviction": 0.9801376714853582,
-      "expected_reward": 0.012250683429885287,
-      "reason": "entry"
-    },
-    {
-      "symbol": "MTCH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013985891379502558,
-      "conviction": 0.9258774702742609,
-      "expected_reward": 0.003374270689726138,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NCLH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011784911554038632,
-      "conviction": 0.7801708022021895,
-      "expected_reward": 0.005080628059300763,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001532297323758403,
+      "conviction": 0.9658865275344177,
+      "expected_reward": 0.010755419220218982,
+      "reason": "rebalance"
     },
     {
       "symbol": "NDAQ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00137663837327381,
-      "conviction": 0.9113458841795775,
-      "expected_reward": 0.00278613415061997,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014874651102511677,
+      "conviction": 0.9376264566233935,
+      "expected_reward": 0.0029744705936354627,
       "reason": "entry"
     },
     {
-      "symbol": "NEM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014156589676115802,
-      "conviction": 0.9371778373913705,
-      "expected_reward": 0.004562005565452828,
-      "reason": "entry"
+      "symbol": "NEE",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015031268758434152,
+      "conviction": 0.9474988803027936,
+      "expected_reward": 0.0036954771499706977,
+      "reason": "rebalance"
     },
     {
       "symbol": "NFLX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011355288994001542,
-      "conviction": 0.7517294366669998,
-      "expected_reward": 0.003096432877753192,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001456322435004941,
-      "conviction": 0.9640973860287373,
-      "expected_reward": 0.0036849140910193354,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00140097908531175,
+      "conviction": 0.883109826584457,
+      "expected_reward": 0.004184361933711921,
+      "reason": "rebalance"
     },
     {
       "symbol": "NKE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001413174874172311,
-      "conviction": 0.9355333471782932,
-      "expected_reward": 0.005505819762644211,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NOW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013891859318018048,
-      "conviction": 0.919652470747985,
-      "expected_reward": 0.003416198457896412,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0007226900475865259,
+      "conviction": 0.45554904372925203,
+      "expected_reward": 0.002741907916288191,
       "reason": "entry"
     },
     {
       "symbol": "NTES",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.007919347595519629,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.003571384195578625,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NVTS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014845919855535634,
-      "conviction": 0.9828120601510525,
-      "expected_reward": 0.00953718760316903,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NWS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013582902926405382,
-      "conviction": 0.899199304444217,
-      "expected_reward": 0.0024104969866405412,
-      "reason": "entry"
-    },
-    {
-      "symbol": "NWSA",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014849330096965187,
-      "conviction": 0.983037820928263,
-      "expected_reward": 0.0022523403284805807,
-      "reason": "entry"
-    },
-    {
-      "symbol": "O",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013620554938111329,
-      "conviction": 0.9016918984736638,
-      "expected_reward": 0.0031981800437421164,
-      "reason": "entry"
-    },
-    {
-      "symbol": "OKE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013147399206120498,
-      "conviction": 0.8703686012812171,
-      "expected_reward": 0.005336234076042249,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015373127001548186,
+      "conviction": 0.9690479795690201,
+      "expected_reward": 0.007704048658792746,
       "reason": "entry"
     },
     {
       "symbol": "OKLO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001449068797089351,
-      "conviction": 0.9592954182875787,
-      "expected_reward": 0.019022099855882914,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00041159564628185985,
+      "conviction": 0.2594500971654457,
+      "expected_reward": 0.005389929691306058,
+      "reason": "rebalance"
     },
     {
       "symbol": "OLLI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014357230664717668,
-      "conviction": 0.9504604352551206,
-      "expected_reward": 0.004957573456282384,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014964512200078444,
+      "conviction": 0.9432908679712058,
+      "expected_reward": 0.004883066177196712,
+      "reason": "rebalance"
     },
     {
       "symbol": "OMC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.004738499315495893,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 8.104671235169298e-05,
+      "conviction": 0.0510879490211785,
+      "expected_reward": 0.0002818878189078314,
+      "reason": "rebalance"
     },
     {
       "symbol": "ON",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011315127967377763,
-      "conviction": 0.7490707437939421,
-      "expected_reward": 0.006613703255913125,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001548024711926323,
+      "conviction": 0.9758003165289963,
+      "expected_reward": 0.008973264537352603,
+      "reason": "rebalance"
     },
     {
       "symbol": "ONON",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.051134294013558186,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015750135643610337,
+      "conviction": 0.9928127909072466,
+      "expected_reward": 0.05120054288800977,
       "reason": "entry"
     },
     {
       "symbol": "ORLY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012119700059255239,
-      "conviction": 0.8023340755950562,
-      "expected_reward": 0.0039735799057655325,
-      "reason": "entry"
-    },
-    {
-      "symbol": "OSCR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0089782777053537,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013686353940871975,
+      "conviction": 0.8627219194073419,
+      "expected_reward": 0.004281416039590073,
+      "reason": "rebalance"
     },
     {
       "symbol": "OTIS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014421431068479997,
-      "conviction": 0.9547105545941832,
-      "expected_reward": 0.004239549601017665,
-      "reason": "entry"
-    },
-    {
-      "symbol": "OWL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001384421963854486,
-      "conviction": 0.9164986849278007,
-      "expected_reward": 0.008888943709104744,
-      "reason": "entry"
-    },
-    {
-      "symbol": "OXY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012972869196840803,
-      "conviction": 0.8588145716456335,
-      "expected_reward": 0.00801809214247706,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.004656384035130711,
+      "reason": "rebalance"
     },
     {
       "symbol": "PAAS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.007738129339862777,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015812931802303045,
+      "conviction": 0.9967711586940824,
+      "expected_reward": 0.007150231003255985,
+      "reason": "rebalance"
     },
     {
       "symbol": "PATH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013202993487235574,
-      "conviction": 0.8740489882486134,
-      "expected_reward": 0.004289832524584447,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PAYX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014970752019958856,
-      "conviction": 0.9910760517314837,
-      "expected_reward": 0.0029290616203676207,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PCG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012965303533667486,
-      "conviction": 0.8583137185437623,
-      "expected_reward": 0.003496778068787527,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0007786624678804484,
+      "conviction": 0.4908313651411231,
+      "expected_reward": 0.0023917178491440452,
+      "reason": "rebalance"
     },
     {
       "symbol": "PDD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001508133160629055,
-      "conviction": 0.998396510962764,
-      "expected_reward": 0.005761526127691318,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015099047601020577,
+      "conviction": 0.9517713325149746,
+      "expected_reward": 0.005632738747477421,
+      "reason": "rebalance"
     },
     {
       "symbol": "PEG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013371954574958643,
-      "conviction": 0.8852343507136111,
-      "expected_reward": 0.0036503942552931633,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015539308563504506,
+      "conviction": 0.9795232658812439,
+      "expected_reward": 0.0040482615191052545,
+      "reason": "rebalance"
     },
     {
-      "symbol": "PFE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014704264863473092,
-      "conviction": 0.9734343835951766,
-      "expected_reward": 0.0026767246714048,
+      "symbol": "PEP",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001442855743125556,
+      "conviction": 0.909506857352163,
+      "expected_reward": 0.002538316454610559,
       "reason": "entry"
     },
     {
       "symbol": "PFG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.0026126375040948268,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PINS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014337828903066903,
-      "conviction": 0.9491760227347718,
-      "expected_reward": 0.0062730845334555835,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006355685123238537,
-      "reason": "entry"
+      "expected_reward": 0.002527651290471401,
+      "reason": "rebalance"
     },
     {
       "symbol": "PNR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013726586928404889,
-      "conviction": 0.908711303120623,
-      "expected_reward": 0.0055237565845084715,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014675777317893937,
+      "conviction": 0.9250904098481566,
+      "expected_reward": 0.005973596517148738,
+      "reason": "rebalance"
     },
     {
       "symbol": "PNW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00140076516284324,
-      "conviction": 0.9273180165851831,
-      "expected_reward": 0.0038006671379715007,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PPG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013978490949826464,
-      "conviction": 0.925387555765309,
-      "expected_reward": 0.006475362470527568,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PPL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011737953665291036,
-      "conviction": 0.7770621514867433,
-      "expected_reward": 0.002721646106125415,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014244657407422566,
-      "conviction": 0.9430079933723188,
-      "expected_reward": 0.006526463533242782,
-      "reason": "entry"
-    },
-    {
-      "symbol": "PRU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0024069920674510796,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015371492102078386,
+      "conviction": 0.9689449233705091,
+      "expected_reward": 0.003971081239514115,
+      "reason": "rebalance"
     },
     {
       "symbol": "PYPL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011869248603524453,
-      "conviction": 0.7857539839894275,
-      "expected_reward": 0.002436559260979457,
-      "reason": "entry"
-    },
-    {
-      "symbol": "QBTS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.010273237995069904,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0004244262694044877,
+      "conviction": 0.26753790481339,
+      "expected_reward": 0.0008649625856403792,
+      "reason": "rebalance"
     },
     {
       "symbol": "QRVO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014010698871683642,
-      "conviction": 0.9275197465855252,
-      "expected_reward": 0.005334197792119313,
-      "reason": "entry"
-    },
-    {
-      "symbol": "QS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012705463934601776,
-      "conviction": 0.8411121241561047,
-      "expected_reward": 0.00572120047970588,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RBLX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012851387249188711,
-      "conviction": 0.8507723671608372,
-      "expected_reward": 0.007592769785054505,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RDW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.009991687747086933,
-      "reason": "entry"
+      "expected_reward": 0.005632518593348914,
+      "reason": "rebalance"
     },
     {
       "symbol": "REG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.0034503385966718845,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001455468553726369,
-      "conviction": 0.9635321096250627,
-      "expected_reward": 0.0016163168699013918,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RGTI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014925396604858426,
-      "conviction": 0.9880734860846512,
-      "expected_reward": 0.01107825550970428,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RIG",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014650513855508102,
-      "conviction": 0.9698760228208141,
-      "expected_reward": 0.010608087403634144,
-      "reason": "entry"
+      "expected_reward": 0.0035952270235331653,
+      "reason": "rebalance"
     },
     {
       "symbol": "RIO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001463476448334137,
-      "conviction": 0.9688334014773142,
-      "expected_reward": 0.002291176404300851,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015564292444120611,
+      "conviction": 0.9810981295397821,
+      "expected_reward": 0.002449988054155401,
+      "reason": "rebalance"
     },
     {
       "symbol": "RIVN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.006816739852979342,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RKLB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015045334016099657,
-      "conviction": 0.9960134409933545,
-      "expected_reward": 0.011805064478874056,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0010391176894528373,
+      "conviction": 0.6550098086077691,
+      "expected_reward": 0.004928781450920655,
+      "reason": "rebalance"
     },
     {
       "symbol": "RMBS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015859524866109337,
+      "conviction": 0.9997081613181336,
+      "expected_reward": 0.010600423097413061,
+      "reason": "rebalance"
+    },
+    {
+      "symbol": "ROKU",
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.009620942106635347,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ROIV",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014694126780300059,
-      "conviction": 0.9727632341813156,
-      "expected_reward": 0.004616990757540285,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ROL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001315605304536068,
-      "conviction": 0.8709414925304373,
-      "expected_reward": 0.003859502223581791,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RRC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014622507008264516,
-      "conviction": 0.9680219465826523,
-      "expected_reward": 0.00844600681330471,
-      "reason": "entry"
-    },
-    {
-      "symbol": "RUN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013763049198892404,
-      "conviction": 0.911125135306458,
-      "expected_reward": 0.008691349864252065,
+      "expected_reward": 0.0019168693008110957,
       "reason": "entry"
     },
     {
       "symbol": "RVTY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001439080793707674,
-      "conviction": 0.9526832782006971,
-      "expected_reward": 0.0032796663146543877,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0004657710275873683,
+      "conviction": 0.2935996516387791,
+      "expected_reward": 0.0010697070790981838,
+      "reason": "rebalance"
     },
     {
       "symbol": "S",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014376902716786264,
-      "conviction": 0.9517627412226236,
-      "expected_reward": 0.005972172069902931,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SBUX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011817856333242525,
-      "conviction": 0.7823517735825871,
-      "expected_reward": 0.003727063640587782,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SCHW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015026497694644472,
-      "conviction": 0.9947664610773116,
-      "expected_reward": 0.0021486775658942354,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SHAK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014768667202944416,
-      "conviction": 0.977697871243654,
-      "expected_reward": 0.006855650030601649,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SJM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013806383235344672,
-      "conviction": 0.9139938840303328,
-      "expected_reward": 0.0036739321192916,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00026597420897893354,
+      "conviction": 0.1676573476577325,
+      "expected_reward": 0.001096729505333905,
+      "reason": "rebalance"
     },
     {
       "symbol": "SLB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013508378396558656,
-      "conviction": 0.8942657194981055,
-      "expected_reward": 0.00476960631464211,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.005575408236178345,
+      "reason": "rebalance"
     },
     {
       "symbol": "SMCI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001239888625276958,
-      "conviction": 0.8208164303890739,
-      "expected_reward": 0.010098633484966563,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014713599982964845,
+      "conviction": 0.9274745687226125,
+      "expected_reward": 0.011424290627016083,
+      "reason": "rebalance"
     },
     {
       "symbol": "SMR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014831628149834933,
-      "conviction": 0.9818659375221108,
-      "expected_reward": 0.015034910174676255,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0006327334917565206,
+      "conviction": 0.39884475795364144,
+      "expected_reward": 0.006625688364450786,
+      "reason": "rebalance"
     },
     {
       "symbol": "SO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012714911982369787,
-      "conviction": 0.8417375926606935,
-      "expected_reward": 0.0031821134732164646,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SOFI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001495216158182657,
-      "conviction": 0.9898453494929093,
-      "expected_reward": 0.0043977016944986074,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014966299415836242,
+      "conviction": 0.9434035254558526,
+      "expected_reward": 0.003588127696754037,
+      "reason": "rebalance"
     },
     {
       "symbol": "SOLV",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001333666721216473,
-      "conviction": 0.8828982983798886,
-      "expected_reward": 0.004288237480404291,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SOUN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.01572536848489723,
-      "reason": "entry"
+      "expected_reward": 0.005266013410452735,
+      "reason": "rebalance"
     },
     {
       "symbol": "SRE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011392235725064556,
-      "conviction": 0.7541753405399314,
-      "expected_reward": 0.0032500157542898343,
-      "reason": "entry"
-    },
-    {
-      "symbol": "STZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014742575180752714,
-      "conviction": 0.9759705579930592,
-      "expected_reward": 0.003735441459792756,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015113237036899663,
+      "conviction": 0.9526657662998815,
+      "expected_reward": 0.004228593479830921,
+      "reason": "rebalance"
     },
     {
       "symbol": "SWK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001377360701467746,
-      "conviction": 0.9118240713631913,
-      "expected_reward": 0.005869168448988515,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015409319946136587,
+      "conviction": 0.9713294087034123,
+      "expected_reward": 0.006012814489639002,
+      "reason": "rebalance"
     },
     {
       "symbol": "SWKS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001344958544269545,
-      "conviction": 0.890373577773582,
-      "expected_reward": 0.00684660779931405,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SYF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013853188406538236,
-      "conviction": 0.9170924247185555,
-      "expected_reward": 0.0037873857157974195,
-      "reason": "entry"
-    },
-    {
-      "symbol": "SYY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013905831649715854,
-      "conviction": 0.9205774505562192,
-      "expected_reward": 0.003029558453012439,
-      "reason": "entry"
-    },
-    {
-      "symbol": "T",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001335787323885455,
-      "conviction": 0.8843021547243555,
-      "expected_reward": 0.0030360289650906915,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TAP",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001481604510608559,
-      "conviction": 0.9808343272561423,
-      "expected_reward": 0.007590763899622795,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015463453894149063,
+      "conviction": 0.9747417523952521,
+      "expected_reward": 0.007263813153686036,
+      "reason": "rebalance"
     },
     {
       "symbol": "TCOM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013908382774450666,
-      "conviction": 0.9207463371042216,
-      "expected_reward": 0.004932510159451766,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013942517964744858,
+      "conviction": 0.8788692672922118,
+      "expected_reward": 0.004771105777139232,
+      "reason": "rebalance"
     },
     {
       "symbol": "TECH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012677891811484628,
-      "conviction": 0.8392868270113544,
-      "expected_reward": 0.0006180161894032042,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TECK",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014886324639965614,
-      "conviction": 0.9854868899906317,
-      "expected_reward": 0.004404257603172152,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TEM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.015647841148526166,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015450592377095876,
+      "conviction": 0.9739310242256789,
+      "expected_reward": 0.0007666462154905442,
+      "reason": "rebalance"
     },
     {
       "symbol": "TFC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013238177501206875,
-      "conviction": 0.8763781988055884,
-      "expected_reward": 0.0021792774278632738,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TGTX",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013029483679675576,
-      "conviction": 0.8625624968028935,
-      "expected_reward": 0.004330357530308815,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TOST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0069648843838499026,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TRMB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014569085635838877,
-      "conviction": 0.9644854079511197,
-      "expected_reward": 0.003424207080067266,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TROW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013115618595851688,
-      "conviction": 0.8682646988383179,
-      "expected_reward": 0.002722675947713355,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TSCO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0006936300078381315,
-      "conviction": 0.45918874924533193,
-      "expected_reward": 0.00355559050107095,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0003605740612405596,
+      "conviction": 0.22728854415563726,
+      "expected_reward": 0.000553338745710108,
+      "reason": "rebalance"
     },
     {
       "symbol": "TSN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013676732666848075,
-      "conviction": 0.9054109101517297,
-      "expected_reward": 0.004408389483823319,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014045307985552482,
+      "conviction": 0.8853486557714363,
+      "expected_reward": 0.00442203233986186,
+      "reason": "rebalance"
     },
     {
       "symbol": "TTD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0012331787924033206,
-      "conviction": 0.8163744660419809,
-      "expected_reward": 0.010159011924057782,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0006026569658352898,
+      "conviction": 0.3798859627303347,
+      "expected_reward": 0.004912029659088499,
+      "reason": "rebalance"
     },
     {
       "symbol": "TW",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014927546784518362,
-      "conviction": 0.9882158297401363,
-      "expected_reward": 0.004796592096078925,
-      "reason": "entry"
-    },
-    {
-      "symbol": "TWST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014869896316644946,
-      "conviction": 0.9843993215243643,
-      "expected_reward": 0.011905383093612477,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0049084189238640255,
+      "reason": "rebalance"
     },
     {
       "symbol": "TXT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014195538921938763,
-      "conviction": 0.9397563093824017,
-      "expected_reward": 0.002122406118114088,
-      "reason": "entry"
-    },
-    {
-      "symbol": "U",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.004283590478165172,
-      "reason": "entry"
-    },
-    {
-      "symbol": "UAL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014548381061528848,
-      "conviction": 0.9631147481651178,
-      "expected_reward": 0.0072385543353170635,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001492886425382438,
+      "conviction": 0.9410437929103019,
+      "expected_reward": 0.0019574300789149636,
+      "reason": "rebalance"
     },
     {
       "symbol": "UBER",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001425322686984715,
-      "conviction": 0.9435752988072024,
-      "expected_reward": 0.0067025379233828265,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.00136581220902263,
+      "conviction": 0.86094231934127,
+      "expected_reward": 0.006104854114661273,
+      "reason": "rebalance"
     },
     {
       "symbol": "UCTT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014253657562372831,
-      "conviction": 0.94360381100534,
-      "expected_reward": 0.010808661628846791,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.011647638730431287,
+      "reason": "rebalance"
     },
     {
       "symbol": "UDR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001507812519539449,
-      "conviction": 0.9981842439339027,
-      "expected_reward": 0.00359408440022722,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.0036271642487094307,
+      "reason": "rebalance"
     },
     {
       "symbol": "UPS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014140849054390613,
-      "conviction": 0.9361357953342714,
-      "expected_reward": 0.0025549495339803143,
-      "reason": "entry"
-    },
-    {
-      "symbol": "UPST",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014955726036959918,
-      "conviction": 0.9900813193436838,
-      "expected_reward": 0.007742477161281786,
-      "reason": "entry"
-    },
-    {
-      "symbol": "USB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.0014061040678977088,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014696009913403626,
+      "conviction": 0.9263657753478449,
+      "expected_reward": 0.002733258299123036,
+      "reason": "rebalance"
     },
     {
       "symbol": "UUUU",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014970488539383354,
-      "conviction": 0.9910586091014721,
-      "expected_reward": 0.008590572908975583,
-      "reason": "entry"
-    },
-    {
-      "symbol": "VALE",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001509157023457006,
-      "conviction": 0.999074316545067,
-      "expected_reward": 0.0038240542739838225,
-      "reason": "entry"
-    },
-    {
-      "symbol": "VFC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001379054705633785,
-      "conviction": 0.9129455160028835,
-      "expected_reward": 0.004797334634025718,
-      "reason": "entry"
-    },
-    {
-      "symbol": "VICI",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015059260074282372,
-      "conviction": 0.9969353574569703,
-      "expected_reward": 0.004581406568295759,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0011105663627189797,
+      "conviction": 0.7000476154667574,
+      "expected_reward": 0.006641073141820408,
+      "reason": "rebalance"
     },
     {
       "symbol": "VLTO",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014873568995581751,
-      "conviction": 0.9846424558796134,
-      "expected_reward": 0.0030454565951285283,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.003179447690395571,
+      "reason": "rebalance"
     },
     {
       "symbol": "VTR",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.00878238178173771,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.001078113162270929,
+      "conviction": 0.6795906789426756,
+      "expected_reward": 0.006206190585777953,
       "reason": "entry"
     },
     {
       "symbol": "VTRS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013239305627953104,
-      "conviction": 0.8764528817206494,
-      "expected_reward": 0.005901337488921677,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
+      "conviction": 1.0,
+      "expected_reward": 0.006967503051563985,
+      "reason": "rebalance"
     },
     {
       "symbol": "VZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013316403729883614,
-      "conviction": 0.8815568392476602,
-      "expected_reward": 0.0039071192833605925,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014658748771258314,
+      "conviction": 0.924017012177625,
+      "expected_reward": 0.004082035049897929,
+      "reason": "rebalance"
     },
     {
       "symbol": "W",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014780594260568449,
-      "conviction": 0.9784874522321734,
-      "expected_reward": 0.006257290990181645,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WBD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00138069782014376,
-      "conviction": 0.9140332712732386,
-      "expected_reward": 0.0019671252583272248,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015686718941024646,
+      "conviction": 0.9888153070182886,
+      "expected_reward": 0.006155842867222907,
+      "reason": "rebalance"
     },
     {
       "symbol": "WEC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014295672499917062,
-      "conviction": 0.9463852343005471,
-      "expected_reward": 0.0035454968927965047,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015371713511795606,
+      "conviction": 0.968958879974075,
+      "expected_reward": 0.0036317267254075475,
+      "reason": "rebalance"
     },
     {
       "symbol": "WFC",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.00139909350553722,
-      "conviction": 0.9262113657499482,
-      "expected_reward": 0.0016541424113502034,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015853961170005425,
+      "conviction": 0.9993574526777972,
+      "expected_reward": 0.0021073809053401226,
+      "reason": "rebalance"
     },
     {
       "symbol": "WFRD",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014437667294960883,
-      "conviction": 0.9557854060922403,
-      "expected_reward": 0.007140701464730668,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WMB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001360585643488163,
-      "conviction": 0.900718845514946,
-      "expected_reward": 0.00390788071133951,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WMT",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001365949432391256,
-      "conviction": 0.9042697177231767,
-      "expected_reward": 0.0024524782402369906,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WOLF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001491558167339508,
-      "conviction": 0.9874237295787829,
-      "expected_reward": 0.015162449174966057,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WPM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015864154640088425,
       "conviction": 1.0,
-      "expected_reward": 0.010301242077602458,
-      "reason": "entry"
+      "expected_reward": 0.007588960206611181,
+      "reason": "rebalance"
     },
     {
       "symbol": "WRB",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014019946607752758,
-      "conviction": 0.9281319542914985,
-      "expected_reward": 0.0033703900326590647,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013972198189857855,
+      "conviction": 0.8807401659178465,
+      "expected_reward": 0.0031276363722554604,
+      "reason": "rebalance"
     },
     {
       "symbol": "WULF",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0003971006556130863,
-      "conviction": 0.2628838881175208,
-      "expected_reward": 0.005234578343058971,
-      "reason": "entry"
-    },
-    {
-      "symbol": "WY",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0014979665030250967,
-      "conviction": 0.9916661003167232,
-      "expected_reward": 0.005397219301143505,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015130212244999146,
+      "conviction": 0.9537358017656596,
+      "expected_reward": 0.01950013726424851,
+      "reason": "rebalance"
     },
     {
       "symbol": "WYNN",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001504463148043195,
-      "conviction": 0.9959669325564489,
-      "expected_reward": 0.0033111753230316903,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015680640355664856,
+      "conviction": 0.9884321422359417,
+      "expected_reward": 0.0032158813351741,
+      "reason": "rebalance"
     },
     {
       "symbol": "XEL",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0013692525052239322,
-      "conviction": 0.9064563790059406,
-      "expected_reward": 0.0033754126567227248,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015520199085939492,
+      "conviction": 0.9783186963344542,
+      "expected_reward": 0.00367665989198359,
+      "reason": "rebalance"
     },
     {
       "symbol": "XYZ",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001418252502180604,
-      "conviction": 0.9388947785291774,
-      "expected_reward": 0.002559973571279183,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0013358984204705296,
+      "conviction": 0.8420861059275978,
+      "expected_reward": 0.002267973236845341,
+      "reason": "rebalance"
     },
     {
       "symbol": "ZBH",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0015105553195240505,
-      "conviction": 1.0,
-      "expected_reward": 0.002844644171167458,
-      "reason": "entry"
-    },
-    {
-      "symbol": "ZM",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.001363367331887165,
-      "conviction": 0.9025603460300535,
-      "expected_reward": 0.003551122406577998,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0015021026638257012,
+      "conviction": 0.9468532663126691,
+      "expected_reward": 0.002767866584965062,
+      "reason": "rebalance"
     },
     {
       "symbol": "ZTS",
-      "decided_ts": "2026-08-11T09:30:00",
-      "target_weight": 0.0011192379008749477,
-      "conviction": 0.7409446621442505,
-      "expected_reward": 0.003949356504116834,
-      "reason": "entry"
+      "decided_ts": "2026-08-11T10:30:00",
+      "target_weight": 0.0014512097374758638,
+      "conviction": 0.9147728135533195,
+      "expected_reward": 0.004787562390390132,
+      "reason": "rebalance"
     }
   ],
-  "realized_pnl": -3937.5208296062183,
-  "cumulative_costs": 14.319574873998558,
-  "cumulative_slippage": 151.37539379612284,
-  "n_fills": 1664,
+  "realized_pnl": -3924.081171545035,
+  "cumulative_costs": 14.387783229956586,
+  "cumulative_slippage": 157.64241800947906,
+  "n_fills": 2062,
   "benchmark_units": {
     "SPY": 133.64338424463264,
     "QQQ": 141.16517445496234
@@ -2821,5 +4182,5 @@
   },
   "version": 1,
   "simulated_capital": true,
-  "updated_utc": "2026-08-11T14:15:01.202337+00:00"
+  "updated_utc": "2026-08-11T15:28:53.519969+00:00"
 }
