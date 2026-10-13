@@ -1,1022 +1,1004 @@
 {
   "universe": "extended",
   "starting_capital": 100000.0,
-  "account_balance": 94553.93020738715,
+  "account_balance": 94494.14,
   "interval": "30m",
   "seed": 7,
   "inception": "2026-08-18T09:30:00",
-  "last_processed": "2026-10-13T15:00:00",
+  "last_processed": "2026-10-13T15:30:00",
   "positions": [
+    {
+      "symbol": "AAPL",
+      "quantity": 7.0,
+      "avg_price": 341.74,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
+    },
     {
       "symbol": "ACN",
       "quantity": -4.0,
       "avg_price": 206.11,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AEHR",
       "quantity": 14.0,
       "avg_price": 79.48,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AES",
       "quantity": 1144.0,
       "avg_price": 14.98,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ALAB",
       "quantity": 5.0,
       "avg_price": 336.32,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ALGN",
       "quantity": -9.0,
       "avg_price": 143.05,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ALL",
       "quantity": -12.0,
       "avg_price": 225.06,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AMAT",
       "quantity": 6.0,
-      "avg_price": 515.9983333333333,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 516.0,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AMD",
       "quantity": 7.0,
       "avg_price": 620.11,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AMKR",
       "quantity": 31.0,
-      "avg_price": 50.165813953488374,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 50.17,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AMT",
       "quantity": -17.0,
       "avg_price": 179.65,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ANET",
       "quantity": 13.0,
       "avg_price": 212.63,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "APA",
       "quantity": -34.0,
       "avg_price": 47.7,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "APH",
       "quantity": 20.0,
       "avg_price": 85.34,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AR",
       "quantity": -62.0,
       "avg_price": 37.28,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ARM",
       "quantity": 7.0,
       "avg_price": 283.03,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ASML",
       "quantity": 2.0,
       "avg_price": 1751.99,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ASTS",
       "quantity": 18.0,
       "avg_price": 51.6,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AU",
       "quantity": -14.0,
       "avg_price": 91.85,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "AVGO",
       "quantity": 6.0,
       "avg_price": 363.19,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "BABA",
       "quantity": -13.0,
       "avg_price": 110.25,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
-      "symbol": "BAC",
-      "quantity": -48.0,
-      "avg_price": 53.93,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
-    },
-    {
-      "symbol": "BSX",
-      "quantity": -51.0,
-      "avg_price": 43.55,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "symbol": "BE",
+      "quantity": 3.0,
+      "avg_price": 262.08,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "BURL",
       "quantity": 12.0,
-      "avg_price": 265.8933333333334,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 265.89,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CAG",
       "quantity": -98.0,
       "avg_price": 13.73,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CAT",
       "quantity": 2.0,
       "avg_price": 771.98,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CCI",
       "quantity": -30.0,
       "avg_price": 71.26,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CCL",
       "quantity": 84.0,
       "avg_price": 26.5,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CDNS",
       "quantity": 6.0,
       "avg_price": 351.24,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CDW",
-      "quantity": -16.0,
-      "avg_price": 142.368125,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "quantity": -23.0,
+      "avg_price": 145.07869565217393,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CEG",
       "quantity": -3.0,
       "avg_price": 296.0,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CF",
       "quantity": -16.0,
-      "avg_price": 115.914375,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "avg_price": 115.91,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CHRD",
       "quantity": -19.0,
-      "avg_price": 143.8521052631579,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 143.85,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CHWY",
       "quantity": -168.0,
       "avg_price": 18.82,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CIFR",
       "quantity": 70.0,
       "avg_price": 14.05,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CLF",
       "quantity": -107.0,
-      "avg_price": 12.648878504672895,
-      "entry_ts": "2026-10-13T16:30:00+00:00"
+      "avg_price": 12.65,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CMCSA",
       "quantity": -126.0,
       "avg_price": 21.01,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CMG",
       "quantity": 48.0,
       "avg_price": 30.46,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CNC",
       "quantity": -44.0,
-      "avg_price": 68.50909090909092,
-      "entry_ts": "2026-10-13T15:30:00+00:00"
+      "avg_price": 68.51,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "COHR",
       "quantity": 6.0,
       "avg_price": 302.14,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "COP",
       "quantity": -16.0,
       "avg_price": 140.55,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "COST",
-      "quantity": 5.0,
-      "avg_price": 957.23,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "quantity": 6.0,
+      "avg_price": 957.1166666666667,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CRDO",
       "quantity": 8.0,
       "avg_price": 203.52,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CRM",
       "quantity": -10.0,
-      "avg_price": 235.73200000000003,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
-    },
-    {
-      "symbol": "CRWD",
-      "quantity": 4.0,
-      "avg_price": 262.13,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "avg_price": 235.73,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CSCO",
       "quantity": 17.0,
       "avg_price": 115.1,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CTSH",
       "quantity": -33.0,
-      "avg_price": 60.60424242424243,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 60.6,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "CYTK",
       "quantity": -28.0,
-      "avg_price": 62.56999999999999,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 62.57,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "DAL",
       "quantity": 28.0,
       "avg_price": 79.05,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "DKNG",
       "quantity": -72.0,
       "avg_price": 19.69,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "DOC",
       "quantity": -110.0,
-      "avg_price": 18.981656050955415,
-      "entry_ts": "2026-10-13T15:30:00+00:00"
+      "avg_price": 18.98,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "DOCN",
       "quantity": -9.0,
-      "avg_price": 128.89333333333332,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
-    },
-    {
-      "symbol": "DOCU",
-      "quantity": -25.0,
-      "avg_price": 72.13,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "avg_price": 128.89,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "DVA",
       "quantity": -11.0,
       "avg_price": 182.08,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "EFX",
       "quantity": -17.0,
-      "avg_price": 144.44882352941178,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 144.45,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "EL",
+      "quantity": -17.0,
+      "avg_price": 99.0,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "ELV",
       "quantity": -5.0,
-      "avg_price": 426.834,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "avg_price": 426.83,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ENTG",
       "quantity": 8.0,
-      "avg_price": 159.26250000000002,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 159.26,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "EPAM",
       "quantity": -20.0,
-      "avg_price": 114.2325,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 114.23,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ETSY",
       "quantity": -18.0,
       "avg_price": 79.1,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FANG",
       "quantity": -13.0,
-      "avg_price": 192.98307692307694,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 192.98,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FCEL",
       "quantity": 53.0,
-      "avg_price": 16.084150943396224,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 16.08,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FICO",
       "quantity": -2.0,
-      "avg_price": 721.9100000000001,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 721.91,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FIS",
       "quantity": -70.0,
       "avg_price": 35.03,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FIVE",
       "quantity": -10.0,
       "avg_price": 213.75,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
-    },
-    {
-      "symbol": "FLEX",
-      "quantity": 9.0,
-      "avg_price": 109.5,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FNV",
       "quantity": -4.0,
       "avg_price": 245.11,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FORM",
       "quantity": 17.0,
-      "avg_price": 129.37352941176474,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 129.37,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FSLR",
       "quantity": -16.0,
-      "avg_price": 184.58312500000002,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 184.58,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "FUTU",
       "quantity": -14.0,
-      "avg_price": 113.92428571428572,
-      "entry_ts": "2026-10-13T16:00:00+00:00"
-    },
-    {
-      "symbol": "GD",
-      "quantity": -10.0,
-      "avg_price": 332.9,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "avg_price": 113.92,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GEHC",
       "quantity": -38.0,
-      "avg_price": 68.51526315789474,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "avg_price": 68.52,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GEN",
       "quantity": -128.0,
       "avg_price": 22.76,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GFI",
-      "quantity": -42.0,
-      "avg_price": 36.48,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "quantity": -63.0,
+      "avg_price": 36.46666666666666,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GFS",
       "quantity": 26.0,
       "avg_price": 47.61,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GLW",
       "quantity": 9.0,
       "avg_price": 152.34,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "GNRC",
       "quantity": 9.0,
-      "avg_price": 211.1856565656566,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 211.19,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "GRMN",
+      "quantity": -6.0,
+      "avg_price": 276.33,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "HIMS",
       "quantity": -51.0,
-      "avg_price": 29.996619718309862,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 30.0,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "HLT",
+      "quantity": 10.0,
+      "avg_price": 329.21,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "HPE",
       "quantity": 23.0,
       "avg_price": 70.79,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "HUM",
       "quantity": -6.0,
-      "avg_price": 429.2133333333333,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 429.21,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "HUT",
       "quantity": -20.0,
-      "avg_price": 83.773,
-      "entry_ts": "2026-10-13T16:30:00+00:00"
+      "avg_price": 83.77,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "IBM",
       "quantity": -11.0,
-      "avg_price": 231.86454545454546,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 231.86,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "INTC",
       "quantity": 16.0,
       "avg_price": 111.6,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "INTU",
       "quantity": -6.0,
       "avg_price": 295.28,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "IONQ",
       "quantity": 49.0,
       "avg_price": 40.82,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "IT",
       "quantity": -5.0,
       "avg_price": 199.48,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
-    },
-    {
-      "symbol": "J",
-      "quantity": -16.0,
-      "avg_price": 141.1125,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "JBHT",
       "quantity": -12.0,
-      "avg_price": 228.07750000000001,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 228.08,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "JBL",
       "quantity": -4.0,
       "avg_price": 311.32,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "JCI",
       "quantity": 12.0,
       "avg_price": 155.76,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "JOBY",
       "quantity": 279.0,
       "avg_price": 5.07,
-      "entry_ts": "2026-10-13T14:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "KEYS",
       "quantity": 9.0,
       "avg_price": 381.96,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "KGC",
       "quantity": -104.0,
-      "avg_price": 23.693365384615387,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 23.69,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "KLAC",
       "quantity": 14.0,
-      "avg_price": 188.13357142857143,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 188.13,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LDOS",
       "quantity": -17.0,
       "avg_price": 121.74,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LITE",
       "quantity": 2.0,
       "avg_price": 1007.14,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LKQ",
       "quantity": -88.0,
       "avg_price": 22.06,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LRCX",
       "quantity": 10.0,
-      "avg_price": 318.05400000000003,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 318.05,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LSCC",
       "quantity": 10.0,
       "avg_price": 117.32,
-      "entry_ts": "2026-10-13T15:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LUNR",
       "quantity": 70.0,
       "avg_price": 12.82,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LVS",
       "quantity": -108.0,
-      "avg_price": 36.25259259259259,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 36.25,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "LW",
       "quantity": -31.0,
-      "avg_price": 50.76032258064516,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 50.76,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MANH",
       "quantity": -13.0,
-      "avg_price": 219.73384615384614,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 219.73,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MAR",
       "quantity": 12.0,
       "avg_price": 368.19,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MDB",
       "quantity": -3.0,
-      "avg_price": 388.164,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 388.16,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MDT",
       "quantity": -17.0,
       "avg_price": 92.28,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MGM",
       "quantity": -83.0,
-      "avg_price": 29.099277108433732,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 29.1,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MKTX",
       "quantity": 208.0,
       "avg_price": 164.55,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MOH",
       "quantity": -14.0,
-      "avg_price": 206.15142857142857,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 206.15,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MP",
       "quantity": 27.0,
       "avg_price": 42.24,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MPWR",
       "quantity": 2.0,
       "avg_price": 1395.25,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MRVL",
       "quantity": 4.0,
       "avg_price": 266.58,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "MU",
       "quantity": 3.0,
       "avg_price": 1007.92,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "NTAP",
       "quantity": 5.0,
       "avg_price": 235.41,
-      "entry_ts": "2026-10-13T15:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "NTES",
       "quantity": -12.0,
       "avg_price": 124.35,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "NVDA",
       "quantity": 15.0,
       "avg_price": 228.74,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "NWS",
       "quantity": -98.0,
       "avg_price": 32.54,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
-    },
-    {
-      "symbol": "O",
-      "quantity": -53.0,
-      "avg_price": 54.89,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "OKLO",
       "quantity": 28.0,
       "avg_price": 31.81,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "OMC",
       "quantity": -27.0,
       "avg_price": 79.17,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ON",
       "quantity": 20.0,
       "avg_price": 81.06,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ONTO",
       "quantity": 8.0,
       "avg_price": 284.4,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ORCL",
       "quantity": -9.0,
       "avg_price": 141.57,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
-    },
-    {
-      "symbol": "PATH",
-      "quantity": -115.0,
-      "avg_price": 13.4,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PAYX",
       "quantity": -36.0,
-      "avg_price": 102.76249999999999,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 102.76,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PCG",
       "quantity": -131.0,
       "avg_price": 13.32,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PINS",
       "quantity": -93.0,
       "avg_price": 22.15,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PL",
       "quantity": 65.0,
       "avg_price": 16.1,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PNR",
       "quantity": -42.0,
       "avg_price": 52.83,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "PODD",
-      "quantity": -11.0,
-      "avg_price": 140.13,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "quantity": -15.0,
+      "avg_price": 139.90066666666664,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "POOL",
+      "quantity": -10.0,
+      "avg_price": 160.38,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "PR",
       "quantity": -125.0,
-      "avg_price": 24.174559999999996,
-      "entry_ts": "2026-10-13T16:30:00+00:00"
+      "avg_price": 24.17,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RBLX",
       "quantity": -54.0,
-      "avg_price": 48.96666666666667,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 48.97,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RCL",
       "quantity": 6.0,
       "avg_price": 280.21,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RGTI",
       "quantity": 74.0,
       "avg_price": 12.82,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RH",
-      "quantity": -12.0,
-      "avg_price": 118.72,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "quantity": -16.0,
+      "avg_price": 118.11749999999999,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
-      "symbol": "RIOT",
-      "quantity": -53.0,
-      "avg_price": 16.69,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "symbol": "RIG",
+      "quantity": -232.0,
+      "avg_price": 5.66,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "RKLB",
       "quantity": 14.0,
       "avg_price": 67.56,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RMBS",
       "quantity": 25.0,
       "avg_price": 106.54,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "ROP",
+      "quantity": -6.0,
+      "avg_price": 370.49,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "RRC",
       "quantity": -63.0,
       "avg_price": 42.58,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "RUN",
       "quantity": -246.0,
-      "avg_price": 7.636029850746269,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "symbol": "S",
-      "quantity": 57.0,
-      "avg_price": 24.86,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "avg_price": 7.64,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SBAC",
       "quantity": -18.0,
-      "avg_price": 171.0011111111111,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 171.0,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SE",
       "quantity": -27.0,
-      "avg_price": 96.10407407407409,
-      "entry_ts": "2026-10-13T16:30:00+00:00"
+      "avg_price": 96.1,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SITM",
       "quantity": 4.0,
       "avg_price": 677.47,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SMCI",
       "quantity": 67.0,
       "avg_price": 40.17,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SMR",
       "quantity": 163.0,
       "avg_price": 7.06,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SNPS",
       "quantity": 2.0,
-      "avg_price": 496.745,
-      "entry_ts": "2026-10-13T15:30:00+00:00"
+      "avg_price": 496.75,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "SOUN",
       "quantity": 384.0,
       "avg_price": 4.89,
-      "entry_ts": "2026-10-13T17:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "T",
       "quantity": 62.0,
       "avg_price": 22.9,
-      "entry_ts": "2026-10-13T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "TECK",
+      "quantity": -19.0,
+      "avg_price": 67.27,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "TER",
       "quantity": 5.0,
-      "avg_price": 401.932,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 401.93,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TJX",
       "quantity": 37.0,
       "avg_price": 139.91,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TMUS",
       "quantity": 11.0,
-      "avg_price": 154.18545454545455,
-      "entry_ts": "2026-10-13T16:00:00+00:00"
-    },
-    {
-      "symbol": "TSEM",
-      "quantity": 3.0,
-      "avg_price": 220.38,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "avg_price": 154.19,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TSM",
       "quantity": 10.0,
       "avg_price": 467.25,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TT",
       "quantity": 7.0,
-      "avg_price": 473.55000000000007,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 473.55,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TTD",
       "quantity": -186.0,
-      "avg_price": 12.253548387096773,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
-    },
-    {
-      "symbol": "TWST",
-      "quantity": -3.0,
-      "avg_price": 153.2,
-      "entry_ts": "2026-10-13T18:30:00+00:00"
+      "avg_price": 12.25,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TXT",
       "quantity": -35.0,
-      "avg_price": 74.212,
-      "entry_ts": "2026-10-13T16:30:00+00:00"
+      "avg_price": 74.21,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "TYL",
       "quantity": -9.0,
-      "avg_price": 344.8922222222222,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 344.89,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "UCTT",
       "quantity": 26.0,
-      "avg_price": 64.40538461538462,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "avg_price": 64.41,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "UPS",
       "quantity": -32.0,
       "avg_price": 94.56,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "VFC",
       "quantity": -123.0,
-      "avg_price": 15.89390243902439,
-      "entry_ts": "2026-10-13T17:00:00+00:00"
+      "avg_price": 15.89,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "VRT",
       "quantity": 5.0,
-      "avg_price": 237.12000000000003,
-      "entry_ts": "2026-10-13T19:00:00+00:00"
+      "avg_price": 237.12,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "VTR",
       "quantity": -31.0,
       "avg_price": 83.08,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
+    },
+    {
+      "symbol": "VZ",
+      "quantity": 28.0,
+      "avg_price": 43.49,
+      "entry_ts": "2026-10-13T20:00:00+00:00"
     },
     {
       "symbol": "WOLF",
       "quantity": 23.0,
       "avg_price": 27.61,
-      "entry_ts": "2026-09-14T18:00:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "WPM",
       "quantity": -10.0,
       "avg_price": 136.93,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "WYNN",
       "quantity": -29.0,
-      "avg_price": 75.64034482758622,
-      "entry_ts": "2026-10-13T15:00:00+00:00"
+      "avg_price": 75.64,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ZBH",
       "quantity": -40.0,
-      "avg_price": 92.393,
-      "entry_ts": "2026-10-13T14:30:00+00:00"
+      "avg_price": 92.39,
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     },
     {
       "symbol": "ZBRA",
       "quantity": 5.0,
       "avg_price": 384.69,
-      "entry_ts": "2026-10-13T19:30:00+00:00"
+      "entry_ts": "2026-09-15T17:30:00+00:00"
     }
   ],
   "realized_pnl": 0.0,
-  "cumulative_friction": 135.951178951821,
-  "cumulative_fees": 13.460909624000001,
+  "cumulative_friction": 6.691546915833397,
+  "cumulative_fees": 0.5306218800000001,
   "cumulative_borrow": 13.314505064236107,
-  "n_fills": 23967,
+  "n_fills": 23995,
   "benchmark_units": {},
   "version": 2,
   "simulated_capital": true,
-  "updated_utc": "2026-10-13T19:42:05+00:00"
+  "updated_utc": "2026-10-13T23:33:59+00:00"
 }
